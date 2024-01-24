@@ -32,7 +32,7 @@ jobs:
           # Update tokenlist.json in the target repo
           curl -sSL -X PUT -H "Authorization: token $GITHUB_TOKEN" \
             -H "Accept: application/vnd.github.v3+json" \
-            -d '{"message": "Update tokenlist.json via GitHub Action", "content": "'$(echo "$SOURCE_FILE_CONTENT" | base64)'"' \
+            -d '{"message": "Update tokenlist.json via GitHub Action", "content": "'$(echo "$SOURCE_FILE_CONTENT" | base64)'"}' \
             "https://api.github.com/repos/$TARGET_REPO_OWNER/$TARGET_REPO_NAME/contents/$TARGET_FILE_PATH"
 
         env:
