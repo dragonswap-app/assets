@@ -36,8 +36,6 @@ jobs:
           TARGET_FILE_PATH=apps/dragon-swap/tokenlist.json
           GITHUB_TOKEN=${{ secrets.GH_TOKEN }}
 
-          sudo apt-get update && sudo apt-get install -y jq
-
           TARGET_SHA=$(curl -sSL -H "Authorization: token $GITHUB_TOKEN" "https://api.github.com/repos/$TARGET_REPO_OWNER/$TARGET_REPO_NAME/contents/$TARGET_FILE_PATH" | jq -r '.sha')
 
           SOURCE_FILE_CONTENT=$(curl -sSL -H "Authorization: Bearer $GITHUB_TOKEN" "https://raw.githubusercontent.com/$SOURCE_REPO_OWNER/$SOURCE_REPO_NAME/main/$SOURCE_FILE_PATH" | base64)
