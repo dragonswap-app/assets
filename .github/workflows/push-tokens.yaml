@@ -17,13 +17,13 @@ jobs:
       - name: Update tokenlist.json in DragonSwap Client
         run: |
           # Set up necessary variables
-          SOURCE_REPO_OWNER: dragonswap-app
-          SOURCE_REPO_NAME: assets
-          SOURCE_FILE_PATH: tokenlist.json
-          TARGET_REPO_OWNER: NIMA-Enterprises
-          TARGET_REPO_NAME: dragonswap-client
-          TARGET_FILE_PATH: apps/dragon-swap/tokenlist.json
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          SOURCE_REPO_OWNER=dragonswap-app
+          SOURCE_REPO_NAME=assets
+          SOURCE_FILE_PATH=tokenlist.json
+          TARGET_REPO_OWNER=NIMA-Enterprises
+          TARGET_REPO_NAME=dragonswap-client
+          TARGET_FILE_PATH=apps/dragon-swap/tokenlist.json
+          GITHUB_TOKEN=${{ secrets.GH_TOKEN }}
 
           SOURCE_FILE_CONTENT=$(curl -sSL -H "Authorization: Bearer $GITHUB_TOKEN" \
             "https://raw.githubusercontent.com/$SOURCE_REPO_OWNER/$SOURCE_REPO_NAME/main/$SOURCE_FILE_PATH")
