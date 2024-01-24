@@ -13,7 +13,7 @@ jobs:
     steps:
       - name: Check network access to raw.githubusercontent.com
         run: |
-          curl -sSL -H "Authorization: Bearer ${{ secrets.GH_TOKEN }} \
+          curl -sSL -H "Authorization: token ${{ secrets.GH_TOKEN }}" \
           "https://raw.githubusercontent.com/dragonswap-app/assets/main/tokenlist.json"
 
       - name: Checkout code
