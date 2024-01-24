@@ -14,6 +14,17 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
 
+      - name: "Setup jq"
+        uses: dcarbone/install-jq-action@v2
+        with:
+          version: "1.7"
+
+      - name: "Check jq"
+        # language=sh
+        run: |
+          which jq
+          jq --version
+
       - name: Update tokenlist.json in DragonSwap Client
         run: |
           # Set up necessary variables
@@ -24,6 +35,8 @@ jobs:
           TARGET_REPO_NAME=dragonswap-client
           TARGET_FILE_PATH=apps/dragon-swap/tokenlist.json
           GITHUB_TOKEN=${{ secrets.GH_TOKEN }}
+
+          sudo apt-get update && sudo apt-get install -y jq
 
           TARGET_SHA=$(curl -sSL -H "Authorization: token $GITHUB_TOKEN" "https://api.github.com/repos/$TARGET_REPO_OWNER/$TARGET_REPO_NAME/contents/$TARGET_FILE_PATH" | jq -r '.sha')
 
