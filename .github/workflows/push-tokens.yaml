@@ -1,4 +1,4 @@
-name: Update tokens.json in Another Repo
+name: Update tokenlist.json in DragonSwap Client
 
 on:
   pull_request:
@@ -6,27 +6,24 @@ on:
       - opened
 
 jobs:
-  updateTokensJson:
+  updateTokenList:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
 
-      - name: Update tokenlist.json in another repo
+      - name: Update tokenlist.json in DragonSwap Client
         run: |
           # Set up necessary variables
-          SOURCE_REPO_OWNER=dragonswap-app
-          SOURCE_REPO_NAME=assets
-          SOURCE_FILE_PATH=tokenlist.json
+          SOURCE_FILE_URL="https://raw.githubusercontent.com/dragonswap-app/assets/main/tokenlist.json?token=${{ secrets.GH_TOKEN }}"
           TARGET_REPO_OWNER=NIMA-Enterprises
           TARGET_REPO_NAME=dragonswap-client
           TARGET_FILE_PATH=apps/dragon-swap/tokenlist.json
           GITHUB_TOKEN=${{ secrets.GH_TOKEN }}
 
-          # Get the content of tokenlist.json from the source repo
-          SOURCE_FILE_CONTENT=$(curl -sSL -H "Authorization: token $GITHUB_TOKEN" \
-            "https://raw.githubusercontent.com/$SOURCE_REPO_OWNER/$SOURCE_REPO_NAME/main/$SOURCE_FILE_PATH")
+          # Get the content of tokenlist.json from the source URL
+          SOURCE_FILE_CONTENT=$(curl -sSL $SOURCE_FILE_URL)
 
           # Update tokenlist.json in the target repo
           curl -sSL -X PUT -H "Authorization: token $GITHUB_TOKEN" \
