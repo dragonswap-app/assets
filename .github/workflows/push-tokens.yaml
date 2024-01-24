@@ -23,6 +23,6 @@ jobs:
         uses: sator-imaging/Copy-to-Another-Repository@v1.0.4
         with:
           target-filepath: "tokenlist.json"
-          output-branch: "main or master"
+          output-branch: "main"
           output-repo: "dragonswap-app/assets"
           git-token: ${{ secrets.GH_TOKEN }}
