@@ -7,37 +7,22 @@ on:
       - synchronize
 
 jobs:
-  updateTokenList:
+  copy-file:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout code
+      - name: Checkout source repository
         uses: actions/checkout@v2
 
-      - name: Update tokenlist.json in DragonSwap Client
-        run: |
-          # Set up necessary variables
-          SOURCE_REPO_OWNER=dragonswap-app
-          SOURCE_REPO_NAME=assets
-          SOURCE_FILE_PATH=tokenlist.json
-          TARGET_REPO_OWNER=NIMA-Enterprises
-          TARGET_REPO_NAME=dragonswap-client
-          TARGET_FILE_PATH=apps/dragon-swap/tokenlist.json
-          GITHUB_TOKEN=${{ secrets.GH_TOKEN }}
+      - name: Checkout target repository
+        uses: actions/checkout@v2
+        with:
+          repository: "NIMA-Enterprises/dragonswap-client"
+          path: "apps/dragon-swap/"
 
-          TARGET_SHA=$(curl -sSL -H "Authorization: token $GITHUB_TOKEN" "https://api.github.com/repos/$TARGET_REPO_OWNER/$TARGET_REPO_NAME/contents/$TARGET_FILE_PATH" | jq -r '.sha')
-
-          SOURCE_FILE_CONTENT=$(curl -sSL -H "Authorization: Bearer $GITHUB_TOKEN" "https://raw.githubusercontent.com/$SOURCE_REPO_OWNER/$SOURCE_REPO_NAME/main/$SOURCE_FILE_PATH" | base64)
-
-          PAYLOAD='{"message": "Update tokenlist.json via GitHub Action", "content": "'$SOURCE_FILE_CONTENT'", "sha": "'$TARGET_SHA'"}'
-
-          echo $PAYLOAD
-
-          # Update tokenlist.json in the target repo
-          curl -sSL -X PUT -H "Authorization: token $GITHUB_TOKEN" \
-            -H "Accept: application/vnd.github.v3+json" \
-            -d "$PAYLOAD" \
-            "https://api.github.com/repos/$TARGET_REPO_OWNER/$TARGET_REPO_NAME/contents/$TARGET_FILE_PATH"
-
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+      - name: Copy file
+        uses: sator-imaging/Copy-to-Another-Repository@v1.0.4
+        with:
+          target-filepath: "tokenlist.json"
+          output-branch: "main or master"
+          output-repo: "dragonswap-app/assets"
+          git-token: ${{ secrets.GH_TOKEN }}
