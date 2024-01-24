@@ -25,7 +25,7 @@ jobs:
           TARGET_FILE_PATH=apps/dragon-swap/tokenlist.json
           GITHUB_TOKEN=${{ secrets.GH_TOKEN }}
 
-          SOURCE_FILE_CONTENT=$(curl -sSL -H "Authorization: token $GITHUB_TOKEN" \
+          SOURCE_FILE_CONTENT=$(curl -sSL -H "Authorization: token ${{ secrets.GH_TOKEN }}" \
           "https://raw.githubusercontent.com/$SOURCE_REPO_OWNER/$SOURCE_REPO_NAME/main/$SOURCE_FILE_PATH")
 
           # Update tokenlist.json in the target repo
