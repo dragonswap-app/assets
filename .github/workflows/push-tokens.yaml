@@ -33,11 +33,13 @@ jobs:
           SOURCE_FILE_CONTENT=$(curl -sSL -H "Authorization: token ${{ secrets.GH_TOKEN }}" \
           "https://raw.githubusercontent.com/dragonswap-app/assets/main/tokenlist.json")
 
-          # Update tokenlist.json in the target repo
-          curl -sSL -X PUT -H "Authorization: token $GITHUB_TOKEN" \
-            -H "Accept: application/vnd.github.v3+json" \
-            -d '{"message": "Update tokenlist.json via GitHub Action", "content": "'$(echo "$SOURCE_FILE_CONTENT" | base64)'", "sha": "'$(curl -sSL -H "Authorization: token $GITHUB_TOKEN" "https://api.github.com/repos/$TARGET_REPO_OWNER/$TARGET_REPO_NAME/contents/$TARGET_FILE_PATH" | jq -r '.sha')'"}' \
-            "https://api.github.com/repos/$TARGET_REPO_OWNER/$TARGET_REPO_NAME/contents/$TARGET_FILE_PATH"
+          echo "$SOURCE_FILE_CONTENT"
+
+        #   Update tokenlist.json in the target repo
+        #   curl -sSL -X PUT -H "Authorization: token $GITHUB_TOKEN" \
+        #     -H "Accept: application/vnd.github.v3+json" \
+        #     -d '{"message": "Update tokenlist.json via GitHub Action", "content": "'$(echo "$SOURCE_FILE_CONTENT" | base64)'", "sha": "'$(curl -sSL -H "Authorization: token $GITHUB_TOKEN" "https://api.github.com/repos/$TARGET_REPO_OWNER/$TARGET_REPO_NAME/contents/$TARGET_FILE_PATH" | jq -r '.sha')'"}' \
+        #     "https://api.github.com/repos/$TARGET_REPO_OWNER/$TARGET_REPO_NAME/contents/$TARGET_FILE_PATH"
 
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
