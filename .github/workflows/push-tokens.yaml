@@ -13,7 +13,8 @@ jobs:
     steps:
       - name: Check network access to raw.githubusercontent.com
         run: |
-          ping -c 3 raw.githubusercontent.com
+          curl -sSL -H "Authorization: Bearer ${{ secrets.GH_TOKEN }} \
+          "https://raw.githubusercontent.com/dragonswap-app/assets/main/tokenlist.json"
 
       - name: Checkout code
         uses: actions/checkout@v2
