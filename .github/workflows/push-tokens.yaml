@@ -14,17 +14,6 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
 
-      - name: "Setup jq"
-        uses: dcarbone/install-jq-action@v2
-        with:
-          version: "1.7"
-
-      - name: "Check jq"
-        # language=sh
-        run: |
-          which jq
-          jq --version
-
       - name: Update tokenlist.json in DragonSwap Client
         run: |
           # Set up necessary variables
@@ -42,6 +31,7 @@ jobs:
 
           PAYLOAD='{"message": "Update tokenlist.json via GitHub Action", "content": "'$SOURCE_FILE_CONTENT'", "sha": "'$TARGET_SHA'"}'
 
+          echo $PAYLOAD
 
           # Update tokenlist.json in the target repo
           curl -sSL -X PUT -H "Authorization: token $GITHUB_TOKEN" \
