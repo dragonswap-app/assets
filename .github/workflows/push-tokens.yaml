@@ -10,7 +10,7 @@ jobs:
   copy-file:
     runs-on: ubuntu-latest
     steps:
-      - name: Add file to DWAP repo
+      - name: Add file to DSWAP repo
         uses: dmnemec/copy_file_to_another_repo_action@main
         env:
           API_TOKEN_GITHUB: ${{ secrets.GH_TOKEN }}
