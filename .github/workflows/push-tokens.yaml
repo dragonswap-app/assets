@@ -1,10 +1,9 @@
 name: Update tokenlist.json in DragonSwap Client
 
 on:
-  pull_request:
-    types:
-      - opened
-      - synchronize
+  push:
+    branches:
+      - main
 
 jobs:
   copy-file:
