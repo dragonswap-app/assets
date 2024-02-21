@@ -6,6 +6,7 @@
       "decimals": 18,
       "name": "TetherToken",
       "symbol": "USDt",
+      "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium minima debitis incidunt ducimus pariatur ea dignissimos natus delectus porro maiores, nemo adipisci, nam, minus voluptatum repellendus! Illum nam delectus vitae totam. Quos aperiam laborum praesentium similique est doloribus minima asperiores sapiente, necessitatibus obcaecati, architecto nobis vitae, reiciendis magnam fugiat? Consectetur?",
       "tags": [],
       "logoURI": "https://dzyb4dm7r8k8w.cloudfront.net/logos/0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7/logo.png"
     },
@@ -15,6 +16,7 @@
       "decimals": 18,
       "name": "TetherToken Bridged",
       "symbol": "USDt.e",
+      "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium minima debitis incidunt ducimus pariatur ea dignissimos natus delectus porro maiores, nemo adipisci, nam, minus voluptatum repellendus! Illum nam delectus vitae totam. Quos aperiam laborum praesentium similique est doloribus minima asperiores sapiente, necessitatibus obcaecati, architecto nobis vitae, reiciendis magnam fugiat? Consectetur?",
       "tags": [],
       "logoURI": "https://dzyb4dm7r8k8w.cloudfront.net/logos/0xc7198437980c041c805A1EDcbA50c1Ce5db95118/logo.png"
     },
@@ -24,6 +26,7 @@
       "decimals": 18,
       "name": "Wrapped Ether",
       "symbol": "WETH",
+      "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium minima debitis incidunt ducimus pariatur ea dignissimos natus delectus porro maiores, nemo adipisci, nam, minus voluptatum repellendus! Illum nam delectus vitae totam. Quos aperiam laborum praesentium similique est doloribus minima asperiores sapiente, necessitatibus obcaecati, architecto nobis vitae, reiciendis magnam fugiat? Consectetur?",
       "tags": [],
       "logoURI": "https://dzyb4dm7r8k8w.cloudfront.net/logos/0x11ed97e8FE965B5cd1eEa9De84ea2b949F72De56/logo.png"
     },
@@ -33,6 +36,7 @@
       "decimals": 18,
       "name": "Avalaunch",
       "symbol": "XAVA",
+      "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium minima debitis incidunt ducimus pariatur ea dignissimos natus delectus porro maiores, nemo adipisci, nam, minus voluptatum repellendus! Illum nam delectus vitae totam. Quos aperiam laborum praesentium similique est doloribus minima asperiores sapiente, necessitatibus obcaecati, architecto nobis vitae, reiciendis magnam fugiat? Consectetur?",
       "tags": [],
       "logoURI": "https://dzyb4dm7r8k8w.cloudfront.net/logos/0xd1c3f94DE7e5B45fa4eDBBA472491a9f4B166FC4/logo.png"
     },
@@ -42,6 +46,7 @@
       "decimals": 18,
       "name": "Wrapped AVAX",
       "symbol": "WAVAX",
+      "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium minima debitis incidunt ducimus pariatur ea dignissimos natus delectus porro maiores, nemo adipisci, nam, minus voluptatum repellendus! Illum nam delectus vitae totam. Quos aperiam laborum praesentium similique est doloribus minima asperiores sapiente, necessitatibus obcaecati, architecto nobis vitae, reiciendis magnam fugiat? Consectetur?",
       "tags": [],
       "logoURI": "https://dzyb4dm7r8k8w.cloudfront.net/logos/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png"
     }
