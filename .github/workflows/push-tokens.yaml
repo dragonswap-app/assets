@@ -20,6 +20,7 @@ jobs:
           API_TOKEN_GITHUB: ${{ secrets.GH_TOKEN }}
         with:
           source_file: "./tokenlist.json"
+          destination_branch: "develop"
           destination_repo: "dragonswap-app/dragonswap-client"
           destination_folder: "packages/backend-service-dragon-swap/src/service/getTokens"
           user_email: "marko.drakulic@nima.enterprises"
