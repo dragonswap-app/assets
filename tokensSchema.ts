@@ -15,7 +15,6 @@ const tokensSchema = z.object({
         about: z.string(),
         symbol: z.string(),
         tags: z.array(z.string()),
-        logoURI: z.string(),
       })
       .strict()
   ),
