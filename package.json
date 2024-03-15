@@ -18,7 +18,8 @@
   "license": "ISC",
   "dependencies": {
     "husky": "^9.0.11",
-    "viem": "^2.8.9"
+    "viem": "^2.8.9",
+    "zod": "^3.22.4"
   },
   "devDependencies": {
     "@types/node": "^20.11.28",
