@@ -3,13 +3,14 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "bun precommit.ts",
+    "test": "node precommit.js",
     "prepare": "husky"
   },
   "husky": {
     "hooks": {
-      "pre-commit": "precommit.ts"
+      "pre-commit": "precommit.js"
     }
   },
   "keywords": [],
