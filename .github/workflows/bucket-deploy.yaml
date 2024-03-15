@@ -22,4 +22,4 @@ jobs:
           aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           aws-region: eu-north-1
       - name: Deploy to S3
-        run: aws s3 sync ./logos s3://${{ secrets.S3_BUCKET_NAME }} --delete
+        run: aws s3 sync ./logos s3://${{ secrets.S3_BUCKET_NAME }}/logos --delete
