@@ -1,11 +1,11 @@
-import fs from "fs";
-import path from "path";
+import * as fs from "fs";
+import * as path from "path";
 import { fileURLToPath } from "url";
 import { isAddress, getAddress } from "viem";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
-const logosDir = path.join(__dirname, "logos");
+const logosDir = path.join(__dirname, "../logos");
 
 fs.readdir(logosDir, (err, files) => {
   if (err) {

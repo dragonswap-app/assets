@@ -5,12 +5,12 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "check-filenames": "node precommit.js",
+    "check-filenames": "npx tsc && node dist/precommit.js",
     "prepare": "husky"
   },
   "husky": {
     "hooks": {
-      "pre-commit": "precommit.js"
+      "pre-commit": "dist/precommit.js"
     }
   },
   "keywords": [],
@@ -19,5 +19,9 @@
   "dependencies": {
     "husky": "^9.0.11",
     "viem": "^2.8.9"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.28",
+    "typescript": "^5.4.2"
   }
 }
