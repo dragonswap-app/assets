@@ -6,6 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "husky": {
+    "hooks": {
+      "pre-commit": "precommit.js"
+    }
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
