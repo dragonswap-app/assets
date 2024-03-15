@@ -9,16 +9,14 @@ const logosDir = path.join(__dirname, "logos");
 
 fs.readdir(logosDir, (err, files) => {
   if (err) {
-    console.error(`Error reading directory: ${err}`);
-    return;
+    throw new Error(`Error reading directory: ${err}`);
   }
 
   files.forEach((file) => {
     const filePath = path.join(logosDir, file);
     fs.stat(filePath, (err, stats) => {
       if (err) {
-        console.error(`Error getting file stats: ${err}`);
-        return;
+        throw new Error(`Error getting file stats: ${err}`);
       }
 
       if (stats.isDirectory()) {
