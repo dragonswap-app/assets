@@ -4,18 +4,19 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "node precommit.js",
+    "test": "bun precommit.ts",
     "prepare": "husky"
   },
   "husky": {
     "hooks": {
-      "pre-commit": "precommit.js"
+      "pre-commit": "precommit.ts"
     }
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "husky": "^9.0.11"
+    "husky": "^9.0.11",
+    "viem": "^2.8.9"
   }
 }
