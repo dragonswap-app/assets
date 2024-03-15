@@ -2,48 +2,93 @@
   "tokens": [
     {
       "chainId": 43113,
-      "address": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7",
-      "decimals": 18,
+      "address": "0xf983afa393199d6902a1dd04f8e93465915ffd8b",
+      "decimals": 6,
       "name": "TetherToken",
-      "symbol": "USDt",
-      "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium minima debitis incidunt ducimus pariatur ea dignissimos natus delectus porro maiores, nemo adipisci, nam, minus voluptatum repellendus! Illum nam delectus vitae totam. Quos aperiam laborum praesentium similique est doloribus minima asperiores sapiente, necessitatibus obcaecati, architecto nobis vitae, reiciendis magnam fugiat? Consectetur?",
-      "tags": []
+      "symbol": "USDT",
+      "tags": [],
+      "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium minima debitis incidunt ducimus pariatur ea dignissimos natus delectus porro maiores, nemo adipisci, nam, minus voluptatum repellendus! Illum nam delectus vitae totam. Quos aperiam laborum praesentium similique est doloribus minima asperiores sapiente, necessitatibus obcaecati, architecto nobis vitae, reiciendis magnam fugiat? Consectetur?"
     },
     {
       "chainId": 43113,
-      "address": "0xc7198437980c041c805A1EDcbA50c1Ce5db95118",
+      "address": "0x027D2E627209f1cebA52ADc8A5aFE9318459b44B",
       "decimals": 18,
-      "name": "TetherToken Bridged",
-      "symbol": "USDt.e",
-      "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium minima debitis incidunt ducimus pariatur ea dignissimos natus delectus porro maiores, nemo adipisci, nam, minus voluptatum repellendus! Illum nam delectus vitae totam. Quos aperiam laborum praesentium similique est doloribus minima asperiores sapiente, necessitatibus obcaecati, architecto nobis vitae, reiciendis magnam fugiat? Consectetur?",
-      "tags": []
+      "name": "SEI",
+      "symbol": "SEI",
+      "tags": [],
+      "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium minima debitis incidunt ducimus pariatur ea dignissimos natus delectus porro maiores, nemo adipisci, nam, minus voluptatum repellendus! Illum nam delectus vitae totam. Quos aperiam laborum praesentium similique est doloribus minima asperiores sapiente, necessitatibus obcaecati, architecto nobis vitae, reiciendis magnam fugiat? Consectetur?"
     },
     {
       "chainId": 43113,
-      "address": "0x11ed97e8FE965B5cd1eEa9De84ea2b949F72De56",
+      "address": "0x4b12b83Eb77B52FF5a082Ac8e2900Fcd9b870D3C",
       "decimals": 18,
-      "name": "Wrapped Ether",
-      "symbol": "WETH",
-      "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium minima debitis incidunt ducimus pariatur ea dignissimos natus delectus porro maiores, nemo adipisci, nam, minus voluptatum repellendus! Illum nam delectus vitae totam. Quos aperiam laborum praesentium similique est doloribus minima asperiores sapiente, necessitatibus obcaecati, architecto nobis vitae, reiciendis magnam fugiat? Consectetur?",
-      "tags": []
+      "name": "Kryptonite",
+      "symbol": "SEILOR",
+      "tags": [],
+      "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium minima debitis incidunt ducimus pariatur ea dignissimos natus delectus porro maiores, nemo adipisci, nam, minus voluptatum repellendus! Illum nam delectus vitae totam. Quos aperiam laborum praesentium similique est doloribus minima asperiores sapiente, necessitatibus obcaecati, architecto nobis vitae, reiciendis magnam fugiat? Consectetur?"
     },
     {
       "chainId": 43113,
-      "address": "0xd1c3f94DE7e5B45fa4eDBBA472491a9f4B166FC4",
+      "address": "0x3Fd40CFe4B8A1d748cad33db408b49579c6B4Ca5",
+      "decimals": 18,
+      "name": "Pyth Network",
+      "symbol": "PYTH",
+      "tags": [],
+      "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium minima debitis incidunt ducimus pariatur ea dignissimos natus delectus porro maiores, nemo adipisci, nam, minus voluptatum repellendus! Illum nam delectus vitae totam. Quos aperiam laborum praesentium similique est doloribus minima asperiores sapiente, necessitatibus obcaecati, architecto nobis vitae, reiciendis magnam fugiat? Consectetur?"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x6Ffd84537040569Bb8160d1E06d0A5d4CEfdf638",
+      "decimals": 18,
+      "name": "Dai",
+      "symbol": "DAI",
+      "tags": [],
+      "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium minima debitis incidunt ducimus pariatur ea dignissimos natus delectus porro maiores, nemo adipisci, nam, minus voluptatum repellendus! Illum nam delectus vitae totam. Quos aperiam laborum praesentium similique est doloribus minima asperiores sapiente, necessitatibus obcaecati, architecto nobis vitae, reiciendis magnam fugiat? Consectetur?"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xace5f7Ea93439Af39b46d2748fA1aC19951c8d7C",
+      "decimals": 6,
+      "name": "USDC",
+      "symbol": "USDC",
+      "tags": [],
+      "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium minima debitis incidunt ducimus pariatur ea dignissimos natus delectus porro maiores, nemo adipisci, nam, minus voluptatum repellendus! Illum nam delectus vitae totam. Quos aperiam laborum praesentium similique est doloribus minima asperiores sapiente, necessitatibus obcaecati, architecto nobis vitae, reiciendis magnam fugiat? Consectetur?"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x7b75109369ACb528d9fa989E227812a6589712b9",
+      "decimals": 18,
+      "name": "DragonsSwap",
+      "symbol": "DSWAP",
+      "tags": [],
+      "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium minima debitis incidunt ducimus pariatur ea dignissimos natus delectus porro maiores, nemo adipisci, nam, minus voluptatum repellendus! Illum nam delectus vitae totam. Quos aperiam laborum praesentium similique est doloribus minima asperiores sapiente, necessitatibus obcaecati, architecto nobis vitae, reiciendis magnam fugiat? Consectetur?"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xeBdE45A4DB821c0174936E53f77e6B8805e9E2eb",
       "decimals": 18,
       "name": "Avalaunch",
       "symbol": "XAVA",
-      "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium minima debitis incidunt ducimus pariatur ea dignissimos natus delectus porro maiores, nemo adipisci, nam, minus voluptatum repellendus! Illum nam delectus vitae totam. Quos aperiam laborum praesentium similique est doloribus minima asperiores sapiente, necessitatibus obcaecati, architecto nobis vitae, reiciendis magnam fugiat? Consectetur?",
-      "tags": []
+      "tags": [],
+      "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium minima debitis incidunt ducimus pariatur ea dignissimos natus delectus porro maiores, nemo adipisci, nam, minus voluptatum repellendus! Illum nam delectus vitae totam. Quos aperiam laborum praesentium similique est doloribus minima asperiores sapiente, necessitatibus obcaecati, architecto nobis vitae, reiciendis magnam fugiat? Consectetur?"
     },
     {
       "chainId": 43113,
-      "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+      "address": "0xe3502396DcB2d6f5Da6B4E217fC1C349070daCCD",
       "decimals": 18,
-      "name": "Wrapped AVAX",
-      "symbol": "WAVAX",
-      "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium minima debitis incidunt ducimus pariatur ea dignissimos natus delectus porro maiores, nemo adipisci, nam, minus voluptatum repellendus! Illum nam delectus vitae totam. Quos aperiam laborum praesentium similique est doloribus minima asperiores sapiente, necessitatibus obcaecati, architecto nobis vitae, reiciendis magnam fugiat? Consectetur?",
-      "tags": []
+      "name": "Arbor",
+      "symbol": "ARBR",
+      "tags": [],
+      "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium minima debitis incidunt ducimus pariatur ea dignissimos natus delectus porro maiores, nemo adipisci, nam, minus voluptatum repellendus! Illum nam delectus vitae totam. Quos aperiam laborum praesentium similique est doloribus minima asperiores sapiente, necessitatibus obcaecati, architecto nobis vitae, reiciendis magnam fugiat? Consectetur?"
+    },
+    {
+      "chainId": 43113,
+      "address": "0x612bca1d4e7998bc6fb1e2f8aec8665a8b25c66a",
+      "decimals": 6,
+      "name": "Orca",
+      "symbol": "ORCA",
+      "tags": [],
+      "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium minima debitis incidunt ducimus pariatur ea dignissimos natus delectus porro maiores, nemo adipisci, nam, minus voluptatum repellendus! Illum nam delectus vitae totam. Quos aperiam laborum praesentium similique est doloribus minima asperiores sapiente, necessitatibus obcaecati, architecto nobis vitae, reiciendis magnam fugiat? Consectetur?"
     }
   ]
 }
