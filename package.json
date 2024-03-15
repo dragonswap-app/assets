@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "node precommit.js",
+    "check-filenames": "node precommit.js",
     "prepare": "husky"
   },
   "husky": {
