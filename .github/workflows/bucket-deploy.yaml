@@ -1,12 +1,9 @@
 name: Deploy To AWS S3
 
-# on:
-#   push:
-#     branches:
-#       - main
 on:
-  pull_request:
-    types: [opened, synchronize]
+  push:
+    branches:
+      - main
 jobs:
   build:
     runs-on: ubuntu-latest
