@@ -23,6 +23,6 @@ jobs:
           destination_branch: "develop"
           destination_repo: "dragonswap-app/dragonswap-client"
           destination_folder: "apps/dragon-swap/src/redux/tokens/"
-          user_email: "marko.drakulic@nima.enterprises"
-          user_name: "drakulicm"
+          user_email: "ffilipovicc98@gmail.com"
+          user_name: "ffilipovicc98"
           commit_message: "Update tokenlist.json using GitHub Actions"
