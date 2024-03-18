@@ -31,7 +31,8 @@ fs.readdir(logosDir, (err, files) => {
       }
 
       if (stats.isDirectory()) {
-        if (!isAddress(file, { strict: true })) {
+
+        if (file !== "MISSING_TOKEN" && !isAddress(file, { strict: true })) {
           throw new Error(
             `${file} is not checksum encoded! Here's the encoded version: ${getAddress(
               file
