@@ -98,6 +98,15 @@
       "symbol": "GLO",
       "tags": [],
       "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium minima debitis incidunt ducimus pariatur ea dignissimos natus delectus porro maiores, nemo adipisci, nam, minus voluptatum repellendus! Illum nam delectus vitae totam. Quos aperiam laborum praesentium similique est doloribus minima asperiores sapiente, necessitatibus obcaecati, architecto nobis vitae, reiciendis magnam fugiat? Consectetur?"
+    },
+    {
+      "chainId": 713715,
+      "address": "0x10dFd90e8cdEd6e212e85cD11098A7AeEa4d0AD5",
+      "decimals": 18,
+      "name": "Seijin",
+      "symbol": "JIN",
+      "tags": [],
+      "about": "Built exclusively for the Sei ecosystem, Seijin offers a secure and efficient platform for community-driven fundraising."
     }
   ]
 }
