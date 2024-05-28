@@ -1,0 +1,28 @@
+name: Update tokenlist.json in DragonSwap Client
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "tokenlist.json"
+
+jobs:
+  copy-file:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Add file to DSWAP repo
+        uses: dmnemec/copy_file_to_another_repo_action@main
+        env:
+          API_TOKEN_GITHUB: ${{ secrets.GH_TOKEN }}
+        with:
+          source_file: ${{secrets.SOURCE_FILE}}
+          destination_branch: ${{secrets.DESTINATION_BRANCH}}
+          destination_repo: ${{secrets.DESTINATION_REPO}}
+          destination_folder: ${{secrets.DESTINATION_FOLDER}}
+          user_email: ${{secrets.USER_EMAIL}}
+          user_name: ${{secrets.USER_NAME}}
+          commit_message: ${{secrets.COMMIT_MESSAGE}}
