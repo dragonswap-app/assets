@@ -19,10 +19,10 @@ jobs:
         env:
           API_TOKEN_GITHUB: ${{ secrets.GH_TOKEN }}
         with:
-          source_file: "./tokenlist.json"
-          destination_branch: "develop"
-          destination_repo: "dragonswap-app/dragonswap-client"
-          destination_folder: "apps/dragon-swap/src/redux/tokens/"
-          user_email: "ffilipovicc98@gmail.com"
-          user_name: "ffilipovicc98"
-          commit_message: "Update tokenlist.json using GitHub Actions"
+          source_file: ${{secrets.SOURCE_FILE}}
+          destination_branch: ${{secrets.DESTINATION_BRANCH}}
+          destination_repo: ${{secrets.DESTINATION_REPO}}
+          destination_folder: ${{secrets.DESTINATION_FOLDER}}
+          user_email: ${{secrets.USER_EMAIL}}
+          user_name: ${{secrets.USER_NAME}}
+          commit_message: ${{secrets.COMMIT_MESSAGE}}
