@@ -1,16 +1,7 @@
 {
   "tokens": [
     {
-      "chainId": 713715,
-      "address": "0xf983afa393199d6902a1dd04f8e93465915ffd8b",
-      "decimals": 6,
-      "name": "TetherToken",
-      "symbol": "USDT",
-      "tags": [],
-      "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium minima debitis incidunt ducimus pariatur ea dignissimos natus delectus porro maiores, nemo adipisci, nam, minus voluptatum repellendus! Illum nam delectus vitae totam. Quos aperiam laborum praesentium similique est doloribus minima asperiores sapiente, necessitatibus obcaecati, architecto nobis vitae, reiciendis magnam fugiat? Consectetur?"
-    },
-    {
-      "chainId": 713715,
+      "chainId": 1329,
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "decimals": 18,
       "name": "SEI",
@@ -19,8 +10,8 @@
       "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium minima debitis incidunt ducimus pariatur ea dignissimos natus delectus porro maiores, nemo adipisci, nam, minus voluptatum repellendus! Illum nam delectus vitae totam. Quos aperiam laborum praesentium similique est doloribus minima asperiores sapiente, necessitatibus obcaecati, architecto nobis vitae, reiciendis magnam fugiat? Consectetur?"
     },
     {
-      "chainId": 713715,
-      "address": "0x027D2E627209f1cebA52ADc8A5aFE9318459b44B",
+      "chainId": 1329,
+      "address": "0xE30feDd158A2e3b13e9badaeABaFc5516e95e8C7",
       "decimals": 18,
       "name": "Wrapped SEI",
       "symbol": "WSEI",
@@ -28,94 +19,22 @@
       "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium minima debitis incidunt ducimus pariatur ea dignissimos natus delectus porro maiores, nemo adipisci, nam, minus voluptatum repellendus! Illum nam delectus vitae totam. Quos aperiam laborum praesentium similique est doloribus minima asperiores sapiente, necessitatibus obcaecati, architecto nobis vitae, reiciendis magnam fugiat? Consectetur?"
     },
     {
-      "chainId": 713715,
-      "address": "0x4b12b83Eb77B52FF5a082Ac8e2900Fcd9b870D3C",
-      "decimals": 18,
-      "name": "Kryptonite",
-      "symbol": "SEILOR",
+      "chainId": 1329,
+      "address": "0xB75D0B03c06A926e488e2659DF1A861F860bD3d1",
+      "decimals": 6,
+      "name": "TetherToken",
+      "symbol": "USDT",
       "tags": [],
       "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium minima debitis incidunt ducimus pariatur ea dignissimos natus delectus porro maiores, nemo adipisci, nam, minus voluptatum repellendus! Illum nam delectus vitae totam. Quos aperiam laborum praesentium similique est doloribus minima asperiores sapiente, necessitatibus obcaecati, architecto nobis vitae, reiciendis magnam fugiat? Consectetur?"
     },
     {
-      "chainId": 713715,
-      "address": "0x3Fd40CFe4B8A1d748cad33db408b49579c6B4Ca5",
-      "decimals": 18,
-      "name": "Pyth Network",
-      "symbol": "PYTH",
-      "tags": [],
-      "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium minima debitis incidunt ducimus pariatur ea dignissimos natus delectus porro maiores, nemo adipisci, nam, minus voluptatum repellendus! Illum nam delectus vitae totam. Quos aperiam laborum praesentium similique est doloribus minima asperiores sapiente, necessitatibus obcaecati, architecto nobis vitae, reiciendis magnam fugiat? Consectetur?"
-    },
-    {
-      "chainId": 713715,
-      "address": "0x6Ffd84537040569Bb8160d1E06d0A5d4CEfdf638",
-      "decimals": 18,
-      "name": "Dai",
-      "symbol": "DAI",
-      "tags": [],
-      "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium minima debitis incidunt ducimus pariatur ea dignissimos natus delectus porro maiores, nemo adipisci, nam, minus voluptatum repellendus! Illum nam delectus vitae totam. Quos aperiam laborum praesentium similique est doloribus minima asperiores sapiente, necessitatibus obcaecati, architecto nobis vitae, reiciendis magnam fugiat? Consectetur?"
-    },
-    {
-      "chainId": 713715,
-      "address": "0xace5f7Ea93439Af39b46d2748fA1aC19951c8d7C",
+      "chainId": 1329,
+      "address": "0x3894085Ef7Ff0f0aeDf52E2A2704928d1Ec074F1",
       "decimals": 6,
       "name": "USDC",
       "symbol": "USDC",
       "tags": [],
       "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium minima debitis incidunt ducimus pariatur ea dignissimos natus delectus porro maiores, nemo adipisci, nam, minus voluptatum repellendus! Illum nam delectus vitae totam. Quos aperiam laborum praesentium similique est doloribus minima asperiores sapiente, necessitatibus obcaecati, architecto nobis vitae, reiciendis magnam fugiat? Consectetur?"
-    },
-    {
-      "chainId": 713715,
-      "address": "0x7b75109369ACb528d9fa989E227812a6589712b9",
-      "decimals": 18,
-      "name": "DragonsSwap",
-      "symbol": "DSWAP",
-      "tags": [],
-      "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium minima debitis incidunt ducimus pariatur ea dignissimos natus delectus porro maiores, nemo adipisci, nam, minus voluptatum repellendus! Illum nam delectus vitae totam. Quos aperiam laborum praesentium similique est doloribus minima asperiores sapiente, necessitatibus obcaecati, architecto nobis vitae, reiciendis magnam fugiat? Consectetur?"
-    },
-    {
-      "chainId": 713715,
-      "address": "0xeBdE45A4DB821c0174936E53f77e6B8805e9E2eb",
-      "decimals": 18,
-      "name": "Avalaunch",
-      "symbol": "XAVA",
-      "tags": [],
-      "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium minima debitis incidunt ducimus pariatur ea dignissimos natus delectus porro maiores, nemo adipisci, nam, minus voluptatum repellendus! Illum nam delectus vitae totam. Quos aperiam laborum praesentium similique est doloribus minima asperiores sapiente, necessitatibus obcaecati, architecto nobis vitae, reiciendis magnam fugiat? Consectetur?"
-    },
-    {
-      "chainId": 713715,
-      "address": "0xe3502396DcB2d6f5Da6B4E217fC1C349070daCCD",
-      "decimals": 18,
-      "name": "Arbor",
-      "symbol": "ARBR",
-      "tags": [],
-      "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium minima debitis incidunt ducimus pariatur ea dignissimos natus delectus porro maiores, nemo adipisci, nam, minus voluptatum repellendus! Illum nam delectus vitae totam. Quos aperiam laborum praesentium similique est doloribus minima asperiores sapiente, necessitatibus obcaecati, architecto nobis vitae, reiciendis magnam fugiat? Consectetur?"
-    },
-    {
-      "chainId": 713715,
-      "address": "0x3ae20B29B7252eEE3C4bb55d2d164acea9e1b7FE",
-      "decimals": 6,
-      "name": "Orca",
-      "symbol": "ORCA",
-      "tags": [],
-      "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium minima debitis incidunt ducimus pariatur ea dignissimos natus delectus porro maiores, nemo adipisci, nam, minus voluptatum repellendus! Illum nam delectus vitae totam. Quos aperiam laborum praesentium similique est doloribus minima asperiores sapiente, necessitatibus obcaecati, architecto nobis vitae, reiciendis magnam fugiat? Consectetur?"
-    },
-    {
-      "chainId": 713715,
-      "address": "0xcE15c17281e6B64b571c06Cbb83c68C3b97da275",
-      "decimals": 18,
-      "name": "Gamblino",
-      "symbol": "GLO",
-      "tags": [],
-      "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium minima debitis incidunt ducimus pariatur ea dignissimos natus delectus porro maiores, nemo adipisci, nam, minus voluptatum repellendus! Illum nam delectus vitae totam. Quos aperiam laborum praesentium similique est doloribus minima asperiores sapiente, necessitatibus obcaecati, architecto nobis vitae, reiciendis magnam fugiat? Consectetur?"
-    },
-    {
-      "chainId": 713715,
-      "address": "0x10dFd90e8cdEd6e212e85cD11098A7AeEa4d0AD5",
-      "decimals": 18,
-      "name": "Seijin",
-      "symbol": "JIN",
-      "tags": [],
-      "about": "Built exclusively for the Sei ecosystem, Seijin offers a secure and efficient platform for community-driven fundraising."
     }
   ]
 }
