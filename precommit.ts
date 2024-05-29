@@ -9,7 +9,7 @@ const __dirname = path.dirname(__filename);
 const logosDir = path.join(__dirname, "../logos");
 
 const tokenList = JSON.parse(
-  fs.readFileSync(path.join(__dirname, "../tokenlist.json"), "utf8")
+  fs.readFileSync(path.join(__dirname, "../tokenlist-sei-mainnet.json"), "utf8")
 );
 
 const val = tokensSchema.safeParse(tokenList);

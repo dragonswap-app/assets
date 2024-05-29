@@ -1,11 +1,11 @@
-name: Update tokenlist.json in DragonSwap Client
+name: Update tokenlist-sei-mainnet.json in DragonSwap Client
 
 on:
   push:
     branches:
       - main
     paths:
-      - "tokenlist.json"
+      - "tokenlist-sei-mainnet.json"
 
 jobs:
   copy-file:
