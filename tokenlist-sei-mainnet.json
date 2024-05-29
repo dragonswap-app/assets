@@ -38,6 +38,15 @@
     },
     {
       "chainId": 1329,
+      "address": "0x5f0E07dFeE5832Faa00c63F2D33A0D79150E8598",
+      "decimals": 6,
+      "name": "SEIYAN",
+      "symbol": "SEIYAN",
+      "tags": [],
+      "about": "SEIYAN is the first and main memecoin on SEI network."
+    },
+    }
+      "chainId": 1329,
       "address": "0x5Cf6826140C1C56Ff49C808A1A75407Cd1DF9423",
       "decimals": 6,
       "name": "iSEI",
