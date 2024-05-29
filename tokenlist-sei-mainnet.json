@@ -53,6 +53,15 @@
       "symbol": "iSEI",
       "tags": [],
       "about": "Liquid staking on Sei! Sei no more!"
+    },
+    {
+      "chainId": 1329,
+      "address": "0xC18b6a15FB0ceaf5eb18696EeFCb5bc7b9107149",
+      "decimals": 18,
+      "name": "Popo The Cat",
+      "symbol": "POPO",
+      "tags": [],
+      "about": "Popo the Cat, the first meme coin on Sei V2 EVM"
     }
   ]
 }
