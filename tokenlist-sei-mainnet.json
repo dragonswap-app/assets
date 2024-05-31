@@ -62,6 +62,15 @@
       "symbol": "POPO",
       "tags": [],
       "about": "Popo the Cat, the first meme coin on Sei V2 EVM"
+    },
+    {
+      "chainId": 1329,
+      "address": "0xc6bc81a0e287cc8103cc002147a9d76cae4cd6e5",
+      "decimals": 18,
+      "name": "SeiBallz",
+      "symbol": "BALLZ",
+      "tags": [],
+      "about": "First mover on SEI V2 EVM, SEI mascot"
     }
   ]
 }
