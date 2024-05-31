@@ -71,6 +71,15 @@
       "symbol": "BALLZ",
       "tags": [],
       "about": "First mover on SEI V2 EVM, SEI mascot"
+    },
+    {
+      "chainId": 1329,
+      "address": "0x17fe1101aF2dAB1aF0317d1ad1BD66cD06Da4B5c",
+      "decimals": 18,
+      "name": "SeiPepe",
+      "symbol": "SeiPepe",
+      "tags": [],
+      "about": "I'm SEIPEPE, the first lit token to drop on SEI V2. Born from geniuses, leading the new wave"
     }
   ]
 }
