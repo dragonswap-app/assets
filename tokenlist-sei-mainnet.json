@@ -89,6 +89,15 @@
       "symbol": "SeiPepe",
       "tags": [],
       "about": "I'm SEIPEPE, the first lit token to drop on SEI V2. Born from geniuses, leading the new wave"
+    },
+    {
+      "chainId": 1329,
+      "address": "0x87B5e43E55A39299804FC593eC1266bD2d08c063",
+      "decimals": 18,
+      "name": "MeowCat",
+      "symbol": "MEOW",
+      "tags": [],
+      "about": "The ultimate cat community-driven token on Avax!"
     }
   ]
 }
