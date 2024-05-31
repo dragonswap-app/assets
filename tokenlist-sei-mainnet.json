@@ -2,6 +2,15 @@
   "tokens": [
     {
       "chainId": 1329,
+      "address": "0x3A0A7a3cA25C17D15E8d51332fb25BFEA274d107",
+      "decimals": 6,
+      "name": "Seipex Credits",
+      "symbol": "SPEX",
+      "tags": [],
+      "about": "The token that fuels the Seipex Finance economy."
+    },
+    {
+      "chainId": 1329,
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "decimals": 18,
       "name": "SEI",
