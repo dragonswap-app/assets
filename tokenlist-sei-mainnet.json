@@ -2,6 +2,15 @@
   "tokens": [
     {
       "chainId": 1329,
+      "address": "0x95597EB8D227a7c4B4f5E807a815C5178eE6dBE1",
+      "decimals": 6,
+      "name": "MILLI",
+      "symbol": "MILLI",
+      "tags": [],
+      "about": "MILLI - the community coin of SEI"
+    },
+    {
+      "chainId": 1329,
       "address": "0x3A0A7a3cA25C17D15E8d51332fb25BFEA274d107",
       "decimals": 6,
       "name": "Seipex Credits",
