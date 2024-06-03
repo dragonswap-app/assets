@@ -89,6 +89,15 @@
       "symbol": "SeiPepe",
       "tags": [],
       "about": "I'm SEIPEPE, the first lit token to drop on SEI V2. Born from geniuses, leading the new wave"
+    },
+    {
+      "chainId": 1329,
+      "address": "0x99B85E9dFFfed176E46a3bE009ab9f9FE6AE59ed",
+      "decimals": 18,
+      "name": "OpenSei",
+      "symbol": "OS",
+      "tags": [],
+      "about": "Opensea On Red Chain.. SEI"
     }
   ]
 }
