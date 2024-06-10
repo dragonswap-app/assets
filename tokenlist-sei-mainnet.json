@@ -2,6 +2,15 @@
   "tokens": [
     {
       "chainId": 1329,
+      "address": "0x019EA1347BD9bc912c0221d24983a74E9386B794",
+      "decimals": 18,
+      "name": "Gokucity Token",
+      "symbol": "GOKU",
+      "tags": [],
+      "about": "Gokucity, a Meme token driving a Social Experiment in DeFi gaming and token distribution on Sei's V2 Blockchain"
+    },
+    {
+      "chainId": 1329,
       "address": "0x95597EB8D227a7c4B4f5E807a815C5178eE6dBE1",
       "decimals": 6,
       "name": "MILLI",
