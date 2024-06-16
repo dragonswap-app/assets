@@ -107,6 +107,15 @@
       "symbol": "OS",
       "tags": [],
       "about": "Opensea On Red Chain.. SEI"
-    }
+    },
+    {
+      "chainId": 1329,
+      "address": "0xD049e189ACC1873BCa8c0a314d6B26835684Fb89",
+      "decimals": 6,
+      "name": "Red",
+      "symbol": "RED",
+      "tags": [],
+      "about": "Aka Pep-é, King of the Red Chain"
+    },
   ]
 }
