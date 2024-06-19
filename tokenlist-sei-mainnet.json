@@ -107,6 +107,15 @@
       "symbol": "OS",
       "tags": [],
       "about": "Opensea On Red Chain.. SEI"
+    },
+    {
+      "chainId": 1329,
+      "address": "0x160345fC359604fC6e70E3c5fAcbdE5F7A9342d8",
+      "decimals": 18,
+      "name": "Wrapped ETH",
+      "symbol": "WETH",
+      "tags": [],
+      "about": "Wrapped ETH on SEI V2 EVM"
     }
   ]
 }
