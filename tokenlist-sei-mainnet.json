@@ -133,9 +133,8 @@
       "name": "$NINJA",
       "symbol": "NINJA",
       "tags": [],
-      "about": "Ninjas, Pixels & Utility on #SEI"
+      "about": "Wrapped ETH on SEI V2 EVM"
     },
-
     {
       "chainId": 1329,
       "address": "0xD049e189ACC1873BCa8c0a314d6B26835684Fb89",
@@ -144,6 +143,16 @@
       "symbol": "RED",
       "tags": [],
       "about": "Aka Pep-é, King of the Red Chain"
+    },
+    {
+      "chainId": 1329,
+      "address": "0x49d1bBfaf4038D5E53124aEdB6809CEDcA3D28A5",
+      "decimals": 18,
+      "name": "JOG",
+      "symbol": "JOG",
+      "tags": [],
+      "about": "The MOG of Sei v2, honoring Sei's co-founder, Jayendra Jog."
+      "about": "Ninjas, Pixels & Utility on #SEI"
     }
   ]
 }
