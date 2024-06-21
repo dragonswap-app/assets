@@ -133,7 +133,7 @@
       "name": "$NINJA",
       "symbol": "NINJA",
       "tags": [],
-      "about": "Wrapped ETH on SEI V2 EVM"
+      "about": "Ninjas, Pixels & Utility on #SEI"
     },
     {
       "chainId": 1329,
@@ -152,7 +152,6 @@
       "symbol": "JOG",
       "tags": [],
       "about": "The MOG of Sei v2, honoring Sei's co-founder, Jayendra Jog."
-      "about": "Ninjas, Pixels & Utility on #SEI"
     }
   ]
 }
