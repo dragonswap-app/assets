@@ -2,33 +2,6 @@
   "tokens": [
     {
       "chainId": 1329,
-      "address": "0x019EA1347BD9bc912c0221d24983a74E9386B794",
-      "decimals": 18,
-      "name": "Gokucity Token",
-      "symbol": "GOKU",
-      "tags": [],
-      "about": "Gokucity, a Meme token driving a Social Experiment in DeFi gaming and token distribution on Sei's V2 Blockchain"
-    },
-    {
-      "chainId": 1329,
-      "address": "0x95597EB8D227a7c4B4f5E807a815C5178eE6dBE1",
-      "decimals": 6,
-      "name": "MILLI",
-      "symbol": "MILLI",
-      "tags": [],
-      "about": "MILLI - the community coin of SEI"
-    },
-    {
-      "chainId": 1329,
-      "address": "0x3A0A7a3cA25C17D15E8d51332fb25BFEA274d107",
-      "decimals": 6,
-      "name": "Seipex Credits",
-      "symbol": "SPEX",
-      "tags": [],
-      "about": "The token that fuels the Seipex Finance economy."
-    },
-    {
-      "chainId": 1329,
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "decimals": 18,
       "name": "SEI",
@@ -44,6 +17,24 @@
       "symbol": "WSEI",
       "tags": [],
       "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium minima debitis incidunt ducimus pariatur ea dignissimos natus delectus porro maiores, nemo adipisci, nam, minus voluptatum repellendus! Illum nam delectus vitae totam. Quos aperiam laborum praesentium similique est doloribus minima asperiores sapiente, necessitatibus obcaecati, architecto nobis vitae, reiciendis magnam fugiat? Consectetur?"
+    },
+    {
+      "chainId": 1329,
+      "address": "0x5Cf6826140C1C56Ff49C808A1A75407Cd1DF9423",
+      "decimals": 6,
+      "name": "iSEI",
+      "symbol": "iSEI",
+      "tags": [],
+      "about": "Liquid staking on Sei! Sei no more!"
+    },
+    {
+      "chainId": 1329,
+      "address": "0x160345fC359604fC6e70E3c5fAcbdE5F7A9342d8",
+      "decimals": 18,
+      "name": "Wrapped ETH",
+      "symbol": "WETH",
+      "tags": [],
+      "about": "Wrapped ETH on SEI V2 EVM"
     },
     {
       "chainId": 1329,
@@ -74,12 +65,12 @@
     },
     {
       "chainId": 1329,
-      "address": "0x5Cf6826140C1C56Ff49C808A1A75407Cd1DF9423",
+      "address": "0x95597EB8D227a7c4B4f5E807a815C5178eE6dBE1",
       "decimals": 6,
-      "name": "iSEI",
-      "symbol": "iSEI",
+      "name": "MILLI",
+      "symbol": "MILLI",
       "tags": [],
-      "about": "Liquid staking on Sei! Sei no more!"
+      "about": "MILLI - the community coin of SEI"
     },
     {
       "chainId": 1329,
@@ -101,12 +92,30 @@
     },
     {
       "chainId": 1329,
+      "address": "0x3A0A7a3cA25C17D15E8d51332fb25BFEA274d107",
+      "decimals": 6,
+      "name": "Seipex Credits",
+      "symbol": "SPEX",
+      "tags": [],
+      "about": "The token that fuels the Seipex Finance economy."
+    },
+    {
+      "chainId": 1329,
       "address": "0x17fe1101aF2dAB1aF0317d1ad1BD66cD06Da4B5c",
       "decimals": 18,
       "name": "SeiPepe",
       "symbol": "SeiPepe",
       "tags": [],
       "about": "I'm SEIPEPE, the first lit token to drop on SEI V2. Born from geniuses, leading the new wave"
+    },
+    {
+      "chainId": 1329,
+      "address": "0x019EA1347BD9bc912c0221d24983a74E9386B794",
+      "decimals": 18,
+      "name": "Gokucity Token",
+      "symbol": "GOKU",
+      "tags": [],
+      "about": "Gokucity, a Meme token driving a Social Experiment in DeFi gaming and token distribution on Sei's V2 Blockchain"
     },
     {
       "chainId": 1329,
@@ -126,15 +135,7 @@
       "tags": [],
       "about": "Ninjas, Pixels & Utility on #SEI"
     },
-    {
-      "chainId": 1329,
-      "address": "0x160345fC359604fC6e70E3c5fAcbdE5F7A9342d8",
-      "decimals": 18,
-      "name": "Wrapped ETH",
-      "symbol": "WETH",
-      "tags": [],
-      "about": "Wrapped ETH on SEI V2 EVM"
-    },
+
     {
       "chainId": 1329,
       "address": "0xD049e189ACC1873BCa8c0a314d6B26835684Fb89",
