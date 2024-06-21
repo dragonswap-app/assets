@@ -110,6 +110,15 @@
     },
     {
       "chainId": 1329,
+      "address": "0x160345fC359604fC6e70E3c5fAcbdE5F7A9342d8",
+      "decimals": 18,
+      "name": "Wrapped ETH",
+      "symbol": "WETH",
+      "tags": [],
+      "about": "Wrapped ETH on SEI V2 EVM"
+    },
+    {
+      "chainId": 1329,
       "address": "0x49d1bBfaf4038D5E53124aEdB6809CEDcA3D28A5",
       "decimals": 18,
       "name": "JOG",
