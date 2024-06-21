@@ -108,7 +108,7 @@
       "tags": [],
       "about": "Opensea On Red Chain.. SEI"
     },
-{
+    {
       "chainId": 1329,
       "address": "0x6B92994f5d5D7D36608BDeD50724282F1E58FBB1",
       "decimals": 18,
@@ -116,6 +116,15 @@
       "symbol": "NINJA",
       "tags": [],
       "about": "Ninjas, Pixels & Utility on #SEI"
+    },
+    {
+      "chainId": 1329,
+      "address": "0x160345fC359604fC6e70E3c5fAcbdE5F7A9342d8",
+      "decimals": 18,
+      "name": "Wrapped ETH",
+      "symbol": "WETH",
+      "tags": [],
+      "about": "Wrapped ETH on SEI V2 EVM"
     }
   ]
 }
