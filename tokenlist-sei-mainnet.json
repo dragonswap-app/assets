@@ -161,6 +161,15 @@
       "symbol": "FROY",
       "tags": [],
       "about": "Fuck you Roy"
+    },
+    {
+      "chainId": 1329,
+      "address": "0xECf7f1EFC9620A911339619C91c9FA0f71e0600E",
+      "decimals": 18,
+      "name": "SEIYUN COIN",
+      "symbol": "SEIYUN",
+      "tags": [],
+      "about": ""
     }
   ]
 }
