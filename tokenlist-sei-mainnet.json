@@ -170,6 +170,15 @@
       "symbol": "SEIYUN",
       "tags": [],
       "about": ""
+    },
+    {
+      "chainId": 1329,
+      "address": "0xf5020DC8eC5e0ef8869Ecc3044933356650b61Cf",
+      "decimals": 18,
+      "name": "jay jeo",
+      "symbol": "JAYJEO",
+      "tags": [],
+      "about": "Becum belleon wif sei's founder Jay jeo"
     }
   ]
 }
