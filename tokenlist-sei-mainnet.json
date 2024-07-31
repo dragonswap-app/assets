@@ -188,6 +188,15 @@
       "symbol": "REX",
       "tags": [],
       "about": ""
+    },
+    {
+      "chainId": 1329,
+      "address": "0x67DA7010C6c231AD620E3940e707adB6c1a08f23",
+      "decimals": 18,
+      "name": "SeiWhale",
+      "symbol": "SEI",
+      "tags": [],
+      "about": ""
     }
   ]
 }
