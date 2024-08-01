@@ -65,6 +65,15 @@
     },
     {
       "chainId": 1329,
+      "address": "0x64445f0aecC51E94aD52d8AC56b7190e764E561a",
+      "decimals": 18,
+      "name": "Frax Share",
+      "symbol": "FXS",
+      "tags": [],
+      "about": ""
+    },
+    {
+      "chainId": 1329,
       "address": "0x95597EB8D227a7c4B4f5E807a815C5178eE6dBE1",
       "decimals": 6,
       "name": "MILLI",
