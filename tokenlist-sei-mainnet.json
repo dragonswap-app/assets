@@ -206,6 +206,16 @@
       "symbol": "CHUCK",
       "tags": ["Meme"],
       "about": ""
+    },
+    {
+      "chainId": 1329,
+      "address": "0xd78BE621436e69C81E4d0e9f29bE14C5EC51E6Ae",
+      "decimals": 18,
+      "name": "gonad",
+      "symbol": "gonad",
+      "tags": [],
+      "about": "A reproductive gland.",
+      "logoURI": "https://github.com/[your-username]/assets/logos/0xd78BE621436e69C81E4d0e9f29bE14C5EC51E6Ae/logo.png"
     }
   ]
 }
