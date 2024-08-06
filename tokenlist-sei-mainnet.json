@@ -215,6 +215,15 @@
       "symbol": "$gonad",
       "tags": ["Meme"],
       "about": "a reproductive gland."
+    },
+    {
+      "chainId": 1329,
+      "address": "0xE94a7c93A00B12E803166D8e355F617B920DD48e",
+      "decimals": 18,
+      "name": "SEIS AI",
+      "symbol": "$SEIS",
+      "tags": ["Meme"],
+      "about": "SEIS, the fastest AI memecoin on the fastest blockchain SEI EVM V2 network."
     }
   ]
 }
