@@ -218,12 +218,21 @@
     },
     {
       "chainId": 1329,
+      "address": "0x5c85726f71aFB7e26d769fB559Ce0168CE1F8f4E",
+      "decimals": 18,
+      "name": "Sei Usagi",
+      "symbol": "USA",
+      "tags": [],
+      "about": ""
+    },
+    {
+      "chainId": 1329,
       "address": "0xE94a7c93A00B12E803166D8e355F617B920DD48e",
       "decimals": 18,
       "name": "SEIS AI",
       "symbol": "$SEIS",
       "tags": ["Meme"],
       "about": "SEIS, the fastest AI memecoin on the fastest blockchain SEI EVM V2 network."
-    }
+    },
   ]
 }
