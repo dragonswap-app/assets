@@ -233,6 +233,15 @@
       "symbol": "$SEIS",
       "tags": ["Meme"],
       "about": "SEIS, the fastest AI memecoin on the fastest blockchain SEI EVM V2 network."
+    },
+    {
+      "chainId": 1329,
+      "address": "0x67DA7010C6c231AD620E3940e707adB6c1a08f23",
+      "decimals": 6,
+      "name": "SeiWhale",
+      "symbol": "SeiWhale",
+      "tags": ["Meme"],
+      "about": ""
     }
   ]
 }
