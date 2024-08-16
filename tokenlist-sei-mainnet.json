@@ -242,6 +242,16 @@
       "symbol": "SeiWhale",
       "tags": ["Meme"],
       "about": ""
+    },
+ {
+      "chainId": 1329,
+      "address": "0x9C367a272f8E318D10118C6367fD69DEf30e430E",
+      "decimals": 6,
+      "name": "Pepei",
+      "symbol": "Pepei",
+      "tags": ["Meme"],
+      "about": "the frog is red"
     }
+
   ]
 }
