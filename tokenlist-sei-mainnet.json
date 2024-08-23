@@ -242,6 +242,15 @@
       "symbol": "SeiWhale",
       "tags": ["Meme"],
       "about": ""
+    },
+    {
+      "chainId": 1329,
+      "address": "0xe85dC0CCECa105755753Fef452C091dEF5324138",
+      "decimals": 18,
+      "name": "SAKEINU",
+      "symbol": "SAKE",
+      "tags": ["Meme"],
+      "about": "The most intoxicated 404 dog memecoin on Sei V2"
     }
   ]
 }
