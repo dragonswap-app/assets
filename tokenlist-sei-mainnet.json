@@ -251,6 +251,15 @@
       "symbol": "SAKE",
       "tags": ["Meme"],
       "about": "The most intoxicated 404 dog memecoin on Sei V2"
+    },
+    {
+      "chainId": 1329,
+      "address": "0x8BEA56dd8CD426e8cD9c225B5De6894db0E04800",
+      "decimals": 18,
+      "name": "Gei coin",
+      "symbol": "GEI",
+      "tags": ["Meme"],
+      "about": "Straight gay fun coin"
     }
   ]
 }
