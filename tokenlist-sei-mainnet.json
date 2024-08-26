@@ -251,6 +251,15 @@
       "symbol": "SAKE",
       "tags": ["Meme"],
       "about": "The most intoxicated 404 dog memecoin on Sei V2"
+    },
+    {
+      "chainId": 1329,
+      "address": "0xF20903d034B12a7266055FE97cEBdB9199Ec6925",
+      "decimals": 18,
+      "name": "BOOBLE",
+      "symbol": "BOOBLE",
+      "tags": ["Meme"],
+      "about": "Round and Cherry"
     }
   ]
 }
