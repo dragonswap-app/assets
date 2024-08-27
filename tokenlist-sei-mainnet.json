@@ -243,7 +243,25 @@
       "tags": ["Meme"],
       "about": ""
     },
- {
+    {
+      "chainId": 1329,
+      "address": "0xe85dC0CCECa105755753Fef452C091dEF5324138",
+      "decimals": 18,
+      "name": "SAKEINU",
+      "symbol": "SAKE",
+      "tags": ["Meme"],
+      "about": "The most intoxicated 404 dog memecoin on Sei V2"
+    },
+    {
+      "chainId": 1329,
+      "address": "0xF20903d034B12a7266055FE97cEBdB9199Ec6925",
+      "decimals": 18,
+      "name": "BOOBLE",
+      "symbol": "BOOBLE",
+      "tags": ["Meme"],
+      "about": "Round and Cherry"
+    },
+    {
       "chainId": 1329,
       "address": "0x9C367a272f8E318D10118C6367fD69DEf30e430E",
       "decimals": 18,
@@ -251,7 +269,6 @@
       "symbol": "Pepei",
       "tags": ["Meme"],
       "about": "the frog is red"
-    }
-
+    },
   ]
 }
