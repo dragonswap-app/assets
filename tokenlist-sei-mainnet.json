@@ -269,6 +269,15 @@
       "symbol": "Pepei",
       "tags": ["Meme"],
       "about": "the frog is red"
+    },
+    {
+      "chainId": 1329,
+      "address": "0x0Bbda0F76e205Fc6A160B90a09975fa443B3fE44",
+      "decimals": 6,
+      "name": "Anome USD",
+      "symbol": "USDA",
+      "tags": ["Anome", "Top", "Stablecoins"],
+      "about": "Tokens managed through contract minting by pledging excess stablecoin value and derivatives"
     }
   ]
 }
