@@ -227,15 +227,6 @@
     },
     {
       "chainId": 1329,
-      "address": "0x646E178a05B4Cb4f2b36D04Bd02767CFeed730CA",
-      "decimals": 18,
-      "name": "Sei Bitch",
-      "symbol": "BITCH",
-      "tags": [],
-      "about": "Meet the first bitch on Sei Network, cum in my face seiyans"
-    },
-    {
-      "chainId": 1329,
       "address": "0xE94a7c93A00B12E803166D8e355F617B920DD48e",
       "decimals": 18,
       "name": "SEIS AI",
@@ -285,7 +276,7 @@
       "decimals": 18,
       "name": "Sei Bitch",
       "symbol": "BITCH",
-      "tags": [],
+      "tags": ["Meme"],
       "about": "Meet the first bitch on Sei Network, cum in my face seiyans"
     }
   ]
