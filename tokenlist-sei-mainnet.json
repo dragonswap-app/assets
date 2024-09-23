@@ -272,6 +272,15 @@
     },
     {
       "chainId": 1329,
+      "address": "0xB629b01A0b3Be5fDab174464507B37C67c3c6084",
+      "decimals": 18,
+      "name": "DogWithHoodie",
+      "symbol": "HOOD",
+      "tags": ["Meme"],
+      "about": "The friendliest dog with red hoodie in the cryptospace."
+    },
+    {
+      "chainId": 1329,
       "address": "0x646E178a05B4Cb4f2b36D04Bd02767CFeed730CA",
       "decimals": 18,
       "name": "Sei Bitch",
