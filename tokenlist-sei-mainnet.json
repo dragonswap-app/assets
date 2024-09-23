@@ -276,8 +276,37 @@
       "decimals": 6,
       "name": "Anome USD",
       "symbol": "USDA",
-      "tags": ["Anome", "Top", "Stablecoins"],
+      "tags": ["Stablecoins"],
       "about": "Tokens managed through contract minting by pledging excess stablecoin value and derivatives"
+    },
+    {
+      "chainId": 1329,
+      "address": "0xbB5850008495B4D7e4C242e30fFC5B6A0f7E916E",
+      "decimals": 18,
+      "name": "Synnax Stablecoin",
+      "symbol": "syUSD",
+      "tags": [
+        "Stablecoins"
+      ],
+      "about": "Synnax is the first SEI-backed digital dollar on the SEI blockchain, offering users the ability to tokenize assets such as $iSEI and $SEI to issue $syUSD."
+    },
+    {
+      "chainId": 1329,
+      "address": "0xB629b01A0b3Be5fDab174464507B37C67c3c6084",
+      "decimals": 18,
+      "name": "DogWithHoodie",
+      "symbol": "HOOD",
+      "tags": ["Meme"],
+      "about": "The friendliest dog with red hoodie in the cryptospace."
+    },
+    {
+      "chainId": 1329,
+      "address": "0x646E178a05B4Cb4f2b36D04Bd02767CFeed730CA",
+      "decimals": 18,
+      "name": "Sei Bitch",
+      "symbol": "BITCH",
+      "tags": ["Meme"],
+      "about": "Meet the first bitch on Sei Network, cum in my face seiyans"
     }
   ]
 }
