@@ -310,6 +310,15 @@
     },
     {
       "chainId": 1329,
+      "address": "0xC66a9B784C0FE8c2Ef7dDaBFacCC6c37b15e73AA",
+      "decimals": 18,
+      "name": "Seiro",
+      "symbol": "SEIRO",
+      "tags": ["Meme"],
+      "about": "The most famous dog of the Crypto space"
+    },
+    {
+      "chainId": 1329,
       "address": "0x597f3D8B4e826806915C9158fb0D700367117D7f",
       "decimals": 18,
       "name": "Sei What?",
