@@ -307,6 +307,15 @@
       "symbol": "BITCH",
       "tags": ["Meme"],
       "about": "Meet the first bitch on Sei Network, cum in my face seiyans"
+    },
+    {
+      "chainId": 1329,
+      "address": "0x597f3D8B4e826806915C9158fb0D700367117D7f",
+      "decimals": 18,
+      "name": "Sei What?",
+      "symbol": "What?",
+      "tags": ["Meme"],
+      "about": "$What? $What? $What? $What? $What? $What? $What? $What? $What?"
     }
   ]
 }
