@@ -325,6 +325,15 @@
       "symbol": "What?",
       "tags": ["Meme"],
       "about": "$What? $What? $What? $What? $What? $What? $What? $What? $What?"
+    },
+    {
+      "chainId": 1329,
+      "address": "0x7950C5Fbd48F6BC3555D1dAE2C03e0Ea5Eb987dc",
+      "decimals": 6,
+      "name": "Mushvro",
+      "symbol": "VROS",
+      "tags": ["Meme"],
+      "about": "Majik vros need a mushvro, a mushvro need a FREE vro 🍄?"
     }
   ]
 }
