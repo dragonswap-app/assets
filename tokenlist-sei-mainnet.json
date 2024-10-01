@@ -328,6 +328,33 @@
     },
     {
       "chainId": 1329,
+      "address": "0x9b31ad7d1eE5a37c64a5972275C5F09fFfbC2C6f",
+      "decimals": 18,
+      "name": "Master",
+      "symbol": "SENSEI",
+      "tags": ["Meme"],
+      "about": "The Master coin"
+    },
+    {
+      "chainId": 1329,
+      "address": "0xDF3D7DD2848f491645974215474c566E79F2e538",
+      "decimals": 18,
+      "name": "S8N",
+      "symbol": "SEITAN",
+      "tags": ["Meme"],
+      "about": "Made in hell with ❤️"
+    },
+    {
+      "chainId": 1329,
+      "address": "0xF63980e3818607c0797e994cfD34c1c592968469",
+      "decimals": 18,
+      "name": "Burger",
+      "symbol": "SUPERSEIZ",
+      "tags": ["Meme"],
+      "about": "Get fat off of your bag."
+    },
+    {
+      "chainId": 1329,
       "address": "0x7950C5Fbd48F6BC3555D1dAE2C03e0Ea5Eb987dc",
       "decimals": 6,
       "name": "Mushvro",
