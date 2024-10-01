@@ -328,6 +328,15 @@
     },
     {
       "chainId": 1329,
+      "address": "0x7950C5Fbd48F6BC3555D1dAE2C03e0Ea5Eb987dc",
+      "decimals": 6,
+      "name": "Mushvro",
+      "symbol": "VROS",
+      "tags": ["Meme"],
+      "about": "Majik vros need a mushvro, a mushvro need a FREE vro 🍄?"
+    },
+    {
+      "chainId": 1329,
       "address": "0x40ff962cc119AA9fB5380D316050986805e1a681",
       "decimals": 18,
       "name": "Yoshi",
