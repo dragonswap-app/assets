@@ -370,6 +370,15 @@
       "symbol": "VROS",
       "tags": ["Meme"],
       "about": "Majik vros need a mushvro, a mushvro need a FREE vro 🍄?"
+    },
+    {
+      "chainId": 1329,
+      "address": "0x8c5529ad032c48bc6413Df8e8dC83D26Dc680079",
+      "decimals": 18,
+      "name": "Sei Less",
+      "symbol": "LESS",
+      "tags": ["Meme"],
+      "about": "Sei $LESS, Less is more"
     }
   ]
 }
