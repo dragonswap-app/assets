@@ -370,6 +370,15 @@
       "symbol": "VROS",
       "tags": ["Meme"],
       "about": "Majik vros need a mushvro, a mushvro need a FREE vro 🍄?"
+    },
+    {
+      "chainId": 1329,
+      "address": "0xCF40ACBed3f6307C33bF00680c9eDaE8F7d789fF",
+      "decimals": 18,
+      "name": "POCHITA",
+      "symbol": "POCHITA",
+      "tags": ["Meme"],
+      "about": "POCHITA the viral Manga Chainsaw Dog on SEI."
     }
   ]
 }
