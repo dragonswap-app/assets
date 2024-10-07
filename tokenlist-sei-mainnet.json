@@ -370,6 +370,15 @@
       "symbol": "VROS",
       "tags": ["Meme"],
       "about": "Majik vros need a mushvro, a mushvro need a FREE vro 🍄?"
+    },
+    {
+      "chainId": 1329,
+      "address": "0xd0C7EdF2109bE009364ac3DB76C6fE8a75728657",
+      "decimals": 6,
+      "name": "LORD SHISHO",
+      "symbol": "SHISHO",
+      "tags": ["Meme"],
+      "about": "dev is a meme"
     }
   ]
 }
