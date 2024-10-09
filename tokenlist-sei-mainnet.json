@@ -319,6 +319,15 @@
     },
     {
       "chainId": 1329,
+      "address": "0x69e48cE9CF965aCc1DE2aD5ad2FdbC3Bdb51509b",
+      "decimals": 18,
+      "name": "CookOnSEI",
+      "symbol": "COOK",
+      "tags": ["Meme"],
+      "about": "Captain COOK, the first dog meme token on SEI"
+    },
+    {
+      "chainId": 1329,
       "address": "0x597f3D8B4e826806915C9158fb0D700367117D7f",
       "decimals": 18,
       "name": "Sei What?",
@@ -328,12 +337,48 @@
     },
     {
       "chainId": 1329,
+      "address": "0x9b31ad7d1eE5a37c64a5972275C5F09fFfbC2C6f",
+      "decimals": 18,
+      "name": "Master",
+      "symbol": "SENSEI",
+      "tags": ["Meme"],
+      "about": "The Master coin"
+    },
+    {
+      "chainId": 1329,
+      "address": "0xDF3D7DD2848f491645974215474c566E79F2e538",
+      "decimals": 18,
+      "name": "S8N",
+      "symbol": "SEITAN",
+      "tags": ["Meme"],
+      "about": "Made in hell with ❤️"
+    },
+    {
+      "chainId": 1329,
+      "address": "0xF63980e3818607c0797e994cfD34c1c592968469",
+      "decimals": 18,
+      "name": "Burger",
+      "symbol": "SUPERSEIZ",
+      "tags": ["Meme"],
+      "about": "Get fat off of your bag."
+    },
+    {
+      "chainId": 1329,
       "address": "0x7950C5Fbd48F6BC3555D1dAE2C03e0Ea5Eb987dc",
       "decimals": 6,
       "name": "Mushvro",
       "symbol": "VROS",
       "tags": ["Meme"],
       "about": "Majik vros need a mushvro, a mushvro need a FREE vro 🍄?"
+    },
+    {
+      "chainId": 1329,
+      "address": "0xd0C7EdF2109bE009364ac3DB76C6fE8a75728657",
+      "decimals": 6,
+      "name": "LORD SHISHO",
+      "symbol": "SHISHO",
+      "tags": ["Meme"],
+      "about": "dev is a meme"
     },
     {
       "chainId": 1329,
