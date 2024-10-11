@@ -380,5 +380,14 @@
       "tags": ["Meme"],
       "about": "dev is a meme"
     }
+    {
+      "chainId": 1329,
+      "address": "0x8BEA56dd8CD426e8cD9c225B5De6894db0E04800",
+      "decimals": 18,
+      "name": "Gei",
+      "symbol": "GEI",
+      "tags": ["Meme"],
+      "about": "straight gay fun coin"
+    }
   ]
 }
