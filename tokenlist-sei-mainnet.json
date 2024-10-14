@@ -72,6 +72,15 @@
       "tags": ["Top"],
       "about": ""
     },
+     {
+      "chainId": 1329,
+      "address": "0x37a4dD9CED2b19Cfe8FAC251cd727b5787E45269",
+      "decimals": 18,
+      "name": "fastUSD",
+      "symbol": "fastUSD",
+      "tags": ["Top", "Stablecoins"],
+      "about": ""
+    },
     {
       "chainId": 1329,
       "address": "0x95597EB8D227a7c4B4f5E807a815C5178eE6dBE1",
