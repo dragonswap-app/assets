@@ -382,6 +382,16 @@
     },
     {
       "chainId": 1329,
+      "address": "0x8c5529ad032c48bc6413Df8e8dC83D26Dc680079",
+      "decimals": 18,
+      "name": "Sei Less",
+      "symbol": "LESS",
+      "tags": ["Meme"],
+      "about": "Sei $LESS, Less is more"
+      "about": "dev is a meme"
+    },
+    {
+      "chainId": 1329,
       "address": "0xd0C7EdF2109bE009364ac3DB76C6fE8a75728657",
       "decimals": 6,
       "name": "LORD SHISHO",
