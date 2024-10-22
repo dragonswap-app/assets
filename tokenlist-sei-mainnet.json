@@ -72,6 +72,15 @@
       "tags": ["Top"],
       "about": ""
     },
+     {
+      "chainId": 1329,
+      "address": "0x37a4dD9CED2b19Cfe8FAC251cd727b5787E45269",
+      "decimals": 18,
+      "name": "fastUSD",
+      "symbol": "fastUSD",
+      "tags": ["Top", "Stablecoins"],
+      "about": ""
+    },
     {
       "chainId": 1329,
       "address": "0x95597EB8D227a7c4B4f5E807a815C5178eE6dBE1",
@@ -373,6 +382,15 @@
     },
     {
       "chainId": 1329,
+      "address": "0x8c5529ad032c48bc6413Df8e8dC83D26Dc680079",
+      "decimals": 18,
+      "name": "Sei Less",
+      "symbol": "LESS",
+      "tags": ["Meme"],
+      "about": "Sei $LESS, Less is more"
+    },
+    {
+      "chainId": 1329,
       "address": "0xd0C7EdF2109bE009364ac3DB76C6fE8a75728657",
       "decimals": 6,
       "name": "LORD SHISHO",
@@ -389,5 +407,23 @@
       "tags": ["chips"],
       "about": "Cooked and consumed by the Cappy Collective"
     },
+    {
+      "chainId": 1329,
+      "address": "0x0DD9e6A6AEb91f1e3596F69d5443b6ca2e864896",
+      "decimals": 6,
+      "name": "SHENRON",
+      "symbol": "SHENRN",
+      "tags": ["Meme"],
+      "about": "I am fwaming dwagon"
+    },
+    {
+      "chainId": 1329,
+      "address": "0x40ff962cc119AA9fB5380D316050986805e1a681",
+      "decimals": 18,
+      "name": "Yoshi",
+      "symbol": "YOSHI",
+      "tags": ["Meme"],
+      "about": "The Sei foundation's husky memecoin"
+    }
   ]
 }
