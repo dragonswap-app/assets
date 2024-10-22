@@ -400,6 +400,15 @@
     },
     {
       "chainId": 1329,
+      "address": "0xBd82f3bfE1dF0c84faEC88a22EbC34C9A86595dc",
+      "decimals": 6,
+      "name": "CHIP$ on SEI",
+      "symbol": "CHIPS",
+      "tags": ["Meme"],
+      "about": "Cooked and consumed by the Cappy Collective"
+    },
+    {
+      "chainId": 1329,
       "address": "0x0DD9e6A6AEb91f1e3596F69d5443b6ca2e864896",
       "decimals": 6,
       "name": "SHENRON",
