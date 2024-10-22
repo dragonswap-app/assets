@@ -388,6 +388,15 @@
       "symbol": "SHISHO",
       "tags": ["Meme"],
       "about": "dev is a meme"
+    },
+    {
+      "chainId": 1329,
+      "address": "0x40ff962cc119AA9fB5380D316050986805e1a681",
+      "decimals": 18,
+      "name": "Yoshi",
+      "symbol": "YOSHI",
+      "tags": ["Meme"],
+      "about": "The Sei foundation's husky memecoin"
     }
   ]
 }
