@@ -228,7 +228,7 @@
     {
       "chainId": 1329,
       "address": "0x490736a46aaBa689Db5265510B5C53aF4c23DEd4",
-      "decimals": 18,
+      "decimals": 6,
       "name": "Happy Ape",
       "symbol": "HAPE",
       "tags": ["Meme"],
