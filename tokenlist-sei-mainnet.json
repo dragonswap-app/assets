@@ -382,6 +382,16 @@
     },
     {
       "chainId": 1329,
+      "address": "0x8c5529ad032c48bc6413Df8e8dC83D26Dc680079",
+      "decimals": 18,
+      "name": "Sei Less",
+      "symbol": "LESS",
+      "tags": ["Meme"],
+      "about": "Sei $LESS, Less is more"
+      "about": ""
+    },
+    {
+      "chainId": 1329,
       "address": "0xd0C7EdF2109bE009364ac3DB76C6fE8a75728657",
       "decimals": 6,
       "name": "LORD SHISHO",
@@ -397,6 +407,15 @@
       "symbol": "SHENRN",
       "tags": ["Meme"],
       "about": "I am fwaming dwagon"
+    },
+    {
+      "chainId": 1329,
+      "address": "0x40ff962cc119AA9fB5380D316050986805e1a681",
+      "decimals": 18,
+      "name": "Yoshi",
+      "symbol": "YOSHI",
+      "tags": ["Meme"],
+      "about": "The Sei foundation's husky memecoin"
     }
   ]
 }
