@@ -3,6 +3,17 @@
 
 This repository contains the assets for the Dragon Swap tokens list. The assets include the list itself, as well as the token logos.
 
+# Token Listing Policy
+The following criteria will be reviewed before a token is accepted for listing on DragonSwap:
+
+- **Contract Verification**: Token contract must be verified on SeiTrace.
+- **Liquidity**: The token must maintain a minimum liquidity of $10,000 for 7 days post TGE.
+- **Social Media Presence**: The token must have an active presence on platforms like X (formerly Twitter), Medium, Telegram, or Discord.
+- **Detailed Token Information**: The token must provide a document with detailed project information, including tokenomics.
+- **Holders**: The token must have a minimum of 500 holders.
+
+Please note that meeting these requirements does not guarantee approval, as DragonSwap reserves the right to reject any projects deemed spam, fraudulent, or offensive.
+
 ## Contributing
 
 1. Fork it (<https://github.com/dragonswap-app/assets/fork>)
