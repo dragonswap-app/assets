@@ -424,6 +424,15 @@
       "symbol": "YOSHI",
       "tags": ["Meme"],
       "about": "The Sei foundation's husky memecoin"
+    },
+    {
+      "chainId": 1329,
+      "address": "0x2183ac6777c0547828f1a8bd0ccab31ae384df94",
+      "decimals": 6,
+      "name": "Wilson",
+      "symbol": "WILSON",
+      "tags": ["Meme"],
+      "about": "The Volleyball Cult Coin on Sei 🏐"
     }
   ]
 }
