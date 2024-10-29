@@ -428,7 +428,7 @@
     {
       "chainId": 1329,
       "address": "0x57fBA850EfcA7c72c270A252383767D741C3017F",
-      "decimals": 18,
+      "decimals": 6,
       "name": "KOSEI 🔴💨",
       "symbol": "KOSEI",
       "tags": ["Meme"],
