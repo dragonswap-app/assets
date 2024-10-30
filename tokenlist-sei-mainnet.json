@@ -433,6 +433,15 @@
       "symbol": "KOSEI",
       "tags": ["Meme"],
       "about": "$KOSEI Sei community driven token launched on Seipex"
+    },
+    {
+      "chainId": 1329,
+      "address": "0xF9BDbF259eCe5ae17e29BF92EB7ABd7B8b465Db9",
+      "decimals": 18,
+      "name": "Froggy",
+      "symbol": "Frog",
+      "tags": ["Meme"],
+      "about": "Community token, built by the community, for the community"
     }
   ]
 }
