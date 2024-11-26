@@ -442,6 +442,15 @@
       "symbol": "KOSEI",
       "tags": ["Meme"],
       "about": "$KOSEI Sei community driven token launched on Seipex"
+    },
+    {
+      "chainId": 1329,
+      "address": "0x921FaF220dcaf3E32FCd474d12C3892040DDe623",
+      "decimals": 6,
+      "name": "WARP",
+      "symbol": "WARP",
+      "tags": ["Meme"],
+      "about": "Official memecoin of TREK and Warp Bois"
     }
   ]
 }
