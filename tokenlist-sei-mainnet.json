@@ -20,6 +20,15 @@
     },
     {
       "chainId": 1329,
+      "address": "0x0555E30da8f98308EdB960aa94C0Db47230d2B9c",
+      "decimals": 8,
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "tags": ["Top"],
+      "about": "Wrapped BTC on SEI V2 EVM"
+    },
+    {
+      "chainId": 1329,
       "address": "0x5Cf6826140C1C56Ff49C808A1A75407Cd1DF9423",
       "decimals": 6,
       "name": "iSEI",
