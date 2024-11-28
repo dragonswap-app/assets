@@ -451,6 +451,15 @@
       "symbol": "KOSEI",
       "tags": ["Meme"],
       "about": "$KOSEI Sei community driven token launched on Seipex"
+    },
+    {
+      "chainId": 1329,
+      "address": "0xCF40ACBed3f6307C33bF00680c9eDaE8F7d789fF",
+      "decimals": 18,
+      "name": "POCHITA",
+      "symbol": "POCHITA",
+      "tags": ["Meme"],
+      "about": "POCHITA • From manga legend to meme sensation! bringing charm, chaos, and non-stop laughs to the digital world!"
     }
   ]
 }
