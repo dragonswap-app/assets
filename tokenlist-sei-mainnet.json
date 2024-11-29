@@ -20,6 +20,15 @@
     },
     {
       "chainId": 1329,
+      "address": "0x0555E30da8f98308EdB960aa94C0Db47230d2B9c",
+      "decimals": 8,
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "tags": ["Top"],
+      "about": "Wrapped BTC on SEI V2 EVM"
+    },
+    {
+      "chainId": 1329,
       "address": "0x5Cf6826140C1C56Ff49C808A1A75407Cd1DF9423",
       "decimals": 6,
       "name": "iSEI",
@@ -451,6 +460,15 @@
       "symbol": "WAIT",
       "tags": ["Meme"],
       "about": "Watch As Ideas Thrive"
+    },
+    {
+      "chainId": 1329,
+      "address": "0xCF40ACBed3f6307C33bF00680c9eDaE8F7d789fF",
+      "decimals": 18,
+      "name": "POCHITA",
+      "symbol": "POCHITA",
+      "tags": ["Meme"],
+      "about": "POCHITA • From manga legend to meme sensation! bringing charm, chaos, and non-stop laughs to the digital world!"
     }
   ]
 }
