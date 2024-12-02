@@ -446,7 +446,7 @@
     {
       "chainId": 1329,
       "address":"0x3eA30C06F4BA6f696D3ba4b660C39DA96ed8f686",
-      "decimals": 6,
+      "decimals": 18,
       "name": "Seibacca",
       "symbol": "SBC",
       "tags": ["Meme"],
