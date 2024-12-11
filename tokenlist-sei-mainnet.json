@@ -463,6 +463,15 @@
     },
     {
       "chainId": 1329,
+      "address": "0x9D9b12c69555669966D36596C56061B6Cc0A937D",
+      "decimals": 18,
+      "name": "xSEIYAN",
+      "symbol": "xSEIYAN",
+      "tags": ["Meme"],
+      "about": "The governance token for $SEIYAN"
+    },
+    {
+      "chainId": 1329,
       "address":"0x3eA30C06F4BA6f696D3ba4b660C39DA96ed8f686",
       "decimals": 18,
       "name": "Seibacca",
