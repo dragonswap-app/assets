@@ -20,6 +20,15 @@
     },
     {
       "chainId": 1329,
+      "address": "0x0555E30da8f98308EdB960aa94C0Db47230d2B9c",
+      "decimals": 8,
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "tags": ["Top"],
+      "about": "Wrapped BTC on SEI V2 EVM"
+    },
+    {
+      "chainId": 1329,
       "address": "0x5Cf6826140C1C56Ff49C808A1A75407Cd1DF9423",
       "decimals": 6,
       "name": "iSEI",
@@ -79,6 +88,15 @@
       "name": "fastUSD",
       "symbol": "fastUSD",
       "tags": ["Top", "Stablecoins"],
+      "about": ""
+    },
+    {
+      "chainId": 1329,
+      "address": "0x83c82f0f959aD3eff528eE513b43808Aa53f4B37",
+      "decimals": 6,
+      "name": "Rock",
+      "symbol": "ROCK",
+      "tags": [],
       "about": ""
     },
     {
@@ -451,6 +469,33 @@
       "symbol": "xSEIYAN",
       "tags": ["Meme"],
       "about": "The governance token for $SEIYAN"
+    },
+    {
+      "chainId": 1329,
+      "address":"0x3eA30C06F4BA6f696D3ba4b660C39DA96ed8f686",
+      "decimals": 18,
+      "name": "Seibacca",
+      "symbol": "SBC",
+      "tags": ["Meme"],
+      "about": "May SEI Force be with you"
+    },
+    {
+      "chainId": 1329,
+      "address": "0x00bc9aF972B5fb3b7fA04827bD3C17d4599BAd8b",
+      "decimals": 6,
+      "name": "WAIT",
+      "symbol": "WAIT",
+      "tags": ["Meme"],
+      "about": "Watch As Ideas Thrive"
+    },
+    {
+      "chainId": 1329,
+      "address": "0xCF40ACBed3f6307C33bF00680c9eDaE8F7d789fF",
+      "decimals": 18,
+      "name": "POCHITA",
+      "symbol": "POCHITA",
+      "tags": ["Meme"],
+      "about": "POCHITA • From manga legend to meme sensation! bringing charm, chaos, and non-stop laughs to the digital world!"
     }
   ]
 }
