@@ -496,6 +496,15 @@
       "symbol": "POCHITA",
       "tags": ["Meme"],
       "about": "POCHITA • From manga legend to meme sensation! bringing charm, chaos, and non-stop laughs to the digital world!"
+    },
+    {
+      "chainId": 1329,
+      "address": "0xF9BDbF259eCe5ae17e29BF92EB7ABd7B8b465Db9",
+      "decimals": 18,
+      "name": "Froggy",
+      "symbol": "Frog",
+      "tags": [],
+      "about": "Community token, built from the ground up by the community for the community, transparency in all things and organic building"
     }
   ]
 }
