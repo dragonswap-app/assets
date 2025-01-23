@@ -81,7 +81,7 @@
       "tags": ["Top"],
       "about": ""
     },
-     {
+    {
       "chainId": 1329,
       "address": "0x37a4dD9CED2b19Cfe8FAC251cd727b5787E45269",
       "decimals": 18,
@@ -312,9 +312,7 @@
       "decimals": 18,
       "name": "Synnax Stablecoin",
       "symbol": "syUSD",
-      "tags": [
-        "Stablecoins"
-      ],
+      "tags": ["Stablecoins"],
       "about": "Synnax is the first SEI-backed digital dollar on the SEI blockchain, offering users the ability to tokenize assets such as $iSEI and $SEI to issue $syUSD."
     },
     {
@@ -472,7 +470,7 @@
     },
     {
       "chainId": 1329,
-      "address":"0x3eA30C06F4BA6f696D3ba4b660C39DA96ed8f686",
+      "address": "0x3eA30C06F4BA6f696D3ba4b660C39DA96ed8f686",
       "decimals": 18,
       "name": "Seibacca",
       "symbol": "SBC",
@@ -505,6 +503,15 @@
       "symbol": "Frog",
       "tags": [],
       "about": "Community token, built from the ground up by the community for the community, transparency in all things and organic building"
+    },
+    {
+      "chainId": 1329,
+      "address": "0xea3910f1C6E687B59835885904A2FD1944B51Ec6",
+      "decimals": 18,
+      "name": "TRUMP",
+      "symbol": "TRUMP",
+      "tags": [],
+      "about": ""
     }
   ]
 }
