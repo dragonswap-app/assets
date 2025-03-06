@@ -515,7 +515,7 @@
     },
     {
       "chainId": 1329,
-      "address": "",
+      "address": "0xdf77686D99667Ae56BC18f539B777DBc2BBE3E9F",
       "decimals": 18,
       "name": "Staked fastUSD",
       "symbol": "sfastUSD",
