@@ -530,6 +530,15 @@
       "symbol": "FISHW",
       "tags": [""],
       "about": ""
+    },
+	{
+      "chainId": 1329,
+      "address": "0x65856bb190955c72d4fd9b1b5700b29067018492",
+      "decimals": 18,
+      "name": "MOOZ",
+      "symbol": "MOOZ",
+      "tags": ["utility"],
+      "about": "The Official token of MOOZ NFT collection"
     }
   ]
 }
