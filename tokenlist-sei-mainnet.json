@@ -45,12 +45,21 @@
       "tags": ["Top"],
       "about": "Wrapped ETH on SEI V2 EVM"
     },
-    {
+     {
       "chainId": 1329,
       "address": "0xB75D0B03c06A926e488e2659DF1A861F860bD3d1",
       "decimals": 6,
       "name": "TetherToken",
       "symbol": "USDT",
+      "tags": ["Top", "Stablecoins"],
+      "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium minima debitis incidunt ducimus pariatur ea dignissimos natus delectus porro maiores, nemo adipisci, nam, minus voluptatum repellendus! Illum nam delectus vitae totam. Quos aperiam laborum praesentium similique est doloribus minima asperiores sapiente, necessitatibus obcaecati, architecto nobis vitae, reiciendis magnam fugiat? Consectetur?"
+    },
+    {
+      "chainId": 1329,
+      "address": "0x9151434b16b9763660705744891fA906F660EcC5",
+      "decimals": 6,
+      "name": "USD₮0",
+      "symbol": "USD₮0",
       "tags": ["Top", "Stablecoins"],
       "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium minima debitis incidunt ducimus pariatur ea dignissimos natus delectus porro maiores, nemo adipisci, nam, minus voluptatum repellendus! Illum nam delectus vitae totam. Quos aperiam laborum praesentium similique est doloribus minima asperiores sapiente, necessitatibus obcaecati, architecto nobis vitae, reiciendis magnam fugiat? Consectetur?"
     },
