@@ -539,6 +539,15 @@
       "symbol": "FISHW",
       "tags": [""],
       "about": ""
+    },
+    {
+      "chainId": 1329,
+      "address": "0x0F206878eEE8d8Ec6788BaCE3E1f183b42dF75B9",
+      "decimals": 18,
+      "name": "Grand Gangsta City",
+      "symbol": "GGC",
+      "tags": [""],
+      "about": ""
     }
   ]
 }
