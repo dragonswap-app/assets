@@ -557,6 +557,15 @@
       "symbol": "GGC",
       "tags": [""],
       "about": ""
+    },
+    {
+      "chainId": 1329,
+      "address": "0x5b8203e65aA5Be3F1CF53FD7fa21b91BA4038ECC",
+      "decimals": 18,
+      "name": "APO",
+      "symbol": "APO",
+      "tags": [""],
+      "about": ""
     }
   ]
 }
