@@ -566,6 +566,15 @@
       "symbol": "APO",
       "tags": [""],
       "about": ""
+    },
+    {
+      "chainId": 1329,
+      "address": "0xC141153C69F28BE65469c98e318872911587ebEc",
+      "decimals": 18,
+      "name": "MAD",
+      "symbol": "MAD",
+      "tags": [""],
+      "about": ""
     }
   ]
 }
