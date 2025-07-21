@@ -6,7 +6,9 @@
       "decimals": 18,
       "name": "Dragonswap Token",
       "symbol": "DRG",
-      "tags": ["Top"],
+      "tags": [
+        "Top"
+      ],
       "about": ""
     },
     {
@@ -15,7 +17,9 @@
       "decimals": 18,
       "name": "SEI",
       "symbol": "SEI",
-      "tags": ["Top"],
+      "tags": [
+        "Top"
+      ],
       "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium minima debitis incidunt ducimus pariatur ea dignissimos natus delectus porro maiores, nemo adipisci, nam, minus voluptatum repellendus! Illum nam delectus vitae totam. Quos aperiam laborum praesentium similique est doloribus minima asperiores sapiente, necessitatibus obcaecati, architecto nobis vitae, reiciendis magnam fugiat? Consectetur?"
     },
     {
@@ -24,7 +28,9 @@
       "decimals": 18,
       "name": "Wrapped SEI",
       "symbol": "WSEI",
-      "tags": ["Top"],
+      "tags": [
+        "Top"
+      ],
       "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium minima debitis incidunt ducimus pariatur ea dignissimos natus delectus porro maiores, nemo adipisci, nam, minus voluptatum repellendus! Illum nam delectus vitae totam. Quos aperiam laborum praesentium similique est doloribus minima asperiores sapiente, necessitatibus obcaecati, architecto nobis vitae, reiciendis magnam fugiat? Consectetur?"
     },
     {
@@ -33,7 +39,9 @@
       "decimals": 8,
       "name": "Wrapped BTC",
       "symbol": "WBTC",
-      "tags": ["Top"],
+      "tags": [
+        "Top"
+      ],
       "about": "Wrapped BTC on SEI V2 EVM"
     },
     {
@@ -42,7 +50,9 @@
       "decimals": 6,
       "name": "iSEI",
       "symbol": "iSEI",
-      "tags": ["Top"],
+      "tags": [
+        "Top"
+      ],
       "about": "Liquid staking on Sei! Sei no more!"
     },
     {
@@ -51,7 +61,9 @@
       "decimals": 18,
       "name": "Wrapped ETH",
       "symbol": "WETH",
-      "tags": ["Top"],
+      "tags": [
+        "Top"
+      ],
       "about": "Wrapped ETH on SEI V2 EVM"
     },
     {
@@ -60,7 +72,10 @@
       "decimals": 6,
       "name": "IBC Bridged USDT",
       "symbol": "kavaUSDT",
-      "tags": ["Top", "Stablecoins"],
+      "tags": [
+        "Top",
+        "Stablecoins"
+      ],
       "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium minima debitis incidunt ducimus pariatur ea dignissimos natus delectus porro maiores, nemo adipisci, nam, minus voluptatum repellendus! Illum nam delectus vitae totam. Quos aperiam laborum praesentium similique est doloribus minima asperiores sapiente, necessitatibus obcaecati, architecto nobis vitae, reiciendis magnam fugiat? Consectetur?"
     },
     {
@@ -69,7 +84,10 @@
       "decimals": 6,
       "name": "USDT0",
       "symbol": "USDT",
-      "tags": ["Top", "Stablecoins"],
+      "tags": [
+        "Top",
+        "Stablecoins"
+      ],
       "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium minima debitis incidunt ducimus pariatur ea dignissimos natus delectus porro maiores, nemo adipisci, nam, minus voluptatum repellendus! Illum nam delectus vitae totam. Quos aperiam laborum praesentium similique est doloribus minima asperiores sapiente, necessitatibus obcaecati, architecto nobis vitae, reiciendis magnam fugiat? Consectetur?"
     },
     {
@@ -78,7 +96,10 @@
       "decimals": 6,
       "name": "USDC",
       "symbol": "USDC",
-      "tags": ["Top", "Stablecoins"],
+      "tags": [
+        "Top",
+        "Stablecoins"
+      ],
       "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium minima debitis incidunt ducimus pariatur ea dignissimos natus delectus porro maiores, nemo adipisci, nam, minus voluptatum repellendus! Illum nam delectus vitae totam. Quos aperiam laborum praesentium similique est doloribus minima asperiores sapiente, necessitatibus obcaecati, architecto nobis vitae, reiciendis magnam fugiat? Consectetur?"
     },
     {
@@ -87,7 +108,9 @@
       "decimals": 6,
       "name": "SEIYAN",
       "symbol": "SEIYAN",
-      "tags": ["Meme"],
+      "tags": [
+        "Meme"
+      ],
       "about": "SEIYAN is the first and main memecoin on SEI network."
     },
     {
@@ -96,7 +119,9 @@
       "decimals": 18,
       "name": "Frax Share",
       "symbol": "FXS",
-      "tags": ["Top"],
+      "tags": [
+        "Top"
+      ],
       "about": ""
     },
     {
@@ -105,7 +130,10 @@
       "decimals": 18,
       "name": "fastUSD",
       "symbol": "fastUSD",
-      "tags": ["Top", "Stablecoins"],
+      "tags": [
+        "Top",
+        "Stablecoins"
+      ],
       "about": ""
     },
     {
@@ -123,7 +151,9 @@
       "decimals": 6,
       "name": "MILLI",
       "symbol": "MILLI",
-      "tags": ["Meme"],
+      "tags": [
+        "Meme"
+      ],
       "about": "MILLI - the community coin of SEI"
     },
     {
@@ -132,7 +162,9 @@
       "decimals": 18,
       "name": "Popo The Cat",
       "symbol": "POPO",
-      "tags": ["Meme"],
+      "tags": [
+        "Meme"
+      ],
       "about": "Popo the Cat, the first meme coin on Sei V2 EVM"
     },
     {
@@ -141,7 +173,9 @@
       "decimals": 18,
       "name": "SeiBallz",
       "symbol": "BALLZ",
-      "tags": ["Meme"],
+      "tags": [
+        "Meme"
+      ],
       "about": "First mover on SEI V2 EVM, SEI mascot"
     },
     {
@@ -159,7 +193,9 @@
       "decimals": 18,
       "name": "SeiPepe",
       "symbol": "SeiPepe",
-      "tags": ["Meme"],
+      "tags": [
+        "Meme"
+      ],
       "about": "I'm SEIPEPE, the first lit token to drop on SEI V2. Born from geniuses, leading the new wave"
     },
     {
@@ -168,7 +204,9 @@
       "decimals": 18,
       "name": "Gokucity Token",
       "symbol": "GOKU",
-      "tags": ["Meme"],
+      "tags": [
+        "Meme"
+      ],
       "about": "Gokucity, a Meme token driving a Social Experiment in DeFi gaming and token distribution on Sei's V2 Blockchain"
     },
     {
@@ -186,7 +224,9 @@
       "decimals": 18,
       "name": "$NINJA",
       "symbol": "NINJA",
-      "tags": ["Meme"],
+      "tags": [
+        "Meme"
+      ],
       "about": "Ninjas, Pixels & Utility on #SEI"
     },
     {
@@ -195,7 +235,9 @@
       "decimals": 6,
       "name": "Red",
       "symbol": "RED",
-      "tags": ["Meme"],
+      "tags": [
+        "Meme"
+      ],
       "about": "Aka Pep-é, King of the Red Chain"
     },
     {
@@ -204,7 +246,9 @@
       "decimals": 18,
       "name": "JOG",
       "symbol": "JOG",
-      "tags": ["Meme"],
+      "tags": [
+        "Meme"
+      ],
       "about": "The MOG of Sei v2, honoring Sei's co-founder, Jayendra Jog."
     },
     {
@@ -213,7 +257,9 @@
       "decimals": 18,
       "name": "F you Roy",
       "symbol": "FROY",
-      "tags": ["Meme"],
+      "tags": [
+        "Meme"
+      ],
       "about": "Fuck you Roy"
     },
     {
@@ -222,7 +268,9 @@
       "decimals": 18,
       "name": "SEIYUN COIN",
       "symbol": "SEIYUN",
-      "tags": ["Meme"],
+      "tags": [
+        "Meme"
+      ],
       "about": ""
     },
     {
@@ -231,7 +279,9 @@
       "decimals": 18,
       "name": "jay jeo",
       "symbol": "JAYJEO",
-      "tags": ["Meme"],
+      "tags": [
+        "Meme"
+      ],
       "about": "Becum belleon wif sei's founder Jay jeo"
     },
     {
@@ -240,7 +290,9 @@
       "decimals": 18,
       "name": "INSPECTOR",
       "symbol": "REX",
-      "tags": ["Meme"],
+      "tags": [
+        "Meme"
+      ],
       "about": ""
     },
     {
@@ -249,7 +301,9 @@
       "decimals": 18,
       "name": "CHUCKCOIN",
       "symbol": "CHUCK",
-      "tags": ["Meme"],
+      "tags": [
+        "Meme"
+      ],
       "about": ""
     },
     {
@@ -258,7 +312,9 @@
       "decimals": 18,
       "name": "gonad",
       "symbol": "$gonad",
-      "tags": ["Meme"],
+      "tags": [
+        "Meme"
+      ],
       "about": "a reproductive gland."
     },
     {
@@ -276,7 +332,9 @@
       "decimals": 18,
       "name": "SEIS AI",
       "symbol": "$SEIS",
-      "tags": ["Meme"],
+      "tags": [
+        "Meme"
+      ],
       "about": "SEIS, the fastest AI memecoin on the fastest blockchain SEI EVM V2 network."
     },
     {
@@ -285,7 +343,9 @@
       "decimals": 6,
       "name": "SeiWhale",
       "symbol": "SeiWhale",
-      "tags": ["Meme"],
+      "tags": [
+        "Meme"
+      ],
       "about": ""
     },
     {
@@ -294,7 +354,9 @@
       "decimals": 18,
       "name": "SAKEINU",
       "symbol": "SAKE",
-      "tags": ["Meme"],
+      "tags": [
+        "Meme"
+      ],
       "about": "The most intoxicated 404 dog memecoin on Sei V2"
     },
     {
@@ -303,7 +365,9 @@
       "decimals": 18,
       "name": "BOOBLE",
       "symbol": "BOOBLE",
-      "tags": ["Meme"],
+      "tags": [
+        "Meme"
+      ],
       "about": "Round and Cherry"
     },
     {
@@ -312,7 +376,9 @@
       "decimals": 18,
       "name": "Pepei",
       "symbol": "Pepei",
-      "tags": ["Meme"],
+      "tags": [
+        "Meme"
+      ],
       "about": "the frog is red"
     },
     {
@@ -321,7 +387,9 @@
       "decimals": 6,
       "name": "Anome USD",
       "symbol": "USDA",
-      "tags": ["Stablecoins"],
+      "tags": [
+        "Stablecoins"
+      ],
       "about": "Tokens managed through contract minting by pledging excess stablecoin value and derivatives"
     },
     {
@@ -330,7 +398,9 @@
       "decimals": 18,
       "name": "Synnax Stablecoin",
       "symbol": "syUSD",
-      "tags": ["Stablecoins"],
+      "tags": [
+        "Stablecoins"
+      ],
       "about": "Synnax is the first SEI-backed digital dollar on the SEI blockchain, offering users the ability to tokenize assets such as $iSEI and $SEI to issue $syUSD."
     },
     {
@@ -339,7 +409,9 @@
       "decimals": 18,
       "name": "DogWithHoodie",
       "symbol": "HOOD",
-      "tags": ["Meme"],
+      "tags": [
+        "Meme"
+      ],
       "about": "The friendliest dog with red hoodie in the cryptospace."
     },
     {
@@ -348,7 +420,9 @@
       "decimals": 18,
       "name": "Sei Bitch",
       "symbol": "BITCH",
-      "tags": ["Meme"],
+      "tags": [
+        "Meme"
+      ],
       "about": "Meet the first bitch on Sei Network, cum in my face seiyans"
     },
     {
@@ -357,7 +431,9 @@
       "decimals": 18,
       "name": "Seiro",
       "symbol": "SEIRO",
-      "tags": ["Meme"],
+      "tags": [
+        "Meme"
+      ],
       "about": "The most famous dog of the Crypto space"
     },
     {
@@ -366,7 +442,9 @@
       "decimals": 18,
       "name": "CookOnSEI",
       "symbol": "COOK",
-      "tags": ["Meme"],
+      "tags": [
+        "Meme"
+      ],
       "about": "Captain COOK, the first dog meme token on SEI"
     },
     {
@@ -375,7 +453,9 @@
       "decimals": 18,
       "name": "Sei What?",
       "symbol": "What?",
-      "tags": ["Meme"],
+      "tags": [
+        "Meme"
+      ],
       "about": "$What? $What? $What? $What? $What? $What? $What? $What? $What?"
     },
     {
@@ -384,7 +464,9 @@
       "decimals": 18,
       "name": "Master",
       "symbol": "SENSEI",
-      "tags": ["Meme"],
+      "tags": [
+        "Meme"
+      ],
       "about": "The Master coin"
     },
     {
@@ -393,7 +475,9 @@
       "decimals": 18,
       "name": "S8N",
       "symbol": "SEITAN",
-      "tags": ["Meme"],
+      "tags": [
+        "Meme"
+      ],
       "about": "Made in hell with ❤️"
     },
     {
@@ -402,7 +486,9 @@
       "decimals": 18,
       "name": "Burger",
       "symbol": "SUPERSEIZ",
-      "tags": ["Meme"],
+      "tags": [
+        "Meme"
+      ],
       "about": "Get fat off of your bag."
     },
     {
@@ -411,7 +497,9 @@
       "decimals": 6,
       "name": "Mushvro",
       "symbol": "VROS",
-      "tags": ["Meme"],
+      "tags": [
+        "Meme"
+      ],
       "about": "Majik vros need a mushvro, a mushvro need a FREE vro 🍄?"
     },
     {
@@ -420,7 +508,9 @@
       "decimals": 18,
       "name": "Sei Less",
       "symbol": "LESS",
-      "tags": ["Meme"],
+      "tags": [
+        "Meme"
+      ],
       "about": "Sei $LESS, Less is more"
     },
     {
@@ -429,7 +519,9 @@
       "decimals": 6,
       "name": "LORD SHISHO",
       "symbol": "SHISHO",
-      "tags": ["Meme"],
+      "tags": [
+        "Meme"
+      ],
       "about": "dev is a meme"
     },
     {
@@ -438,7 +530,9 @@
       "decimals": 6,
       "name": "CHIP$ on SEI",
       "symbol": "CHIPS",
-      "tags": ["Meme"],
+      "tags": [
+        "Meme"
+      ],
       "about": "Cooked and consumed by the Cappy Collective"
     },
     {
@@ -447,7 +541,9 @@
       "decimals": 6,
       "name": "SHENRON",
       "symbol": "SHENRN",
-      "tags": ["Meme"],
+      "tags": [
+        "Meme"
+      ],
       "about": "I am fwaming dwagon"
     },
     {
@@ -456,7 +552,9 @@
       "decimals": 18,
       "name": "Yoshi",
       "symbol": "YOSHI",
-      "tags": ["Meme"],
+      "tags": [
+        "Meme"
+      ],
       "about": "The Sei foundation's husky memecoin"
     },
     {
@@ -465,7 +563,9 @@
       "decimals": 6,
       "name": "Wilson",
       "symbol": "WILSON",
-      "tags": ["Meme"],
+      "tags": [
+        "Meme"
+      ],
       "about": "The Volleyball Cult Coin on Sei 🏐"
     },
     {
@@ -474,7 +574,9 @@
       "decimals": 6,
       "name": "KOSEI 🔴💨",
       "symbol": "KOSEI",
-      "tags": ["Meme"],
+      "tags": [
+        "Meme"
+      ],
       "about": "$KOSEI Sei community driven token launched on Seipex"
     },
     {
@@ -483,7 +585,9 @@
       "decimals": 18,
       "name": "xSEIYAN",
       "symbol": "xSEIYAN",
-      "tags": ["Meme"],
+      "tags": [
+        "Meme"
+      ],
       "about": "The governance token for $SEIYAN"
     },
     {
@@ -492,7 +596,9 @@
       "decimals": 18,
       "name": "Seibacca",
       "symbol": "SBC",
-      "tags": ["Meme"],
+      "tags": [
+        "Meme"
+      ],
       "about": "May SEI Force be with you"
     },
     {
@@ -501,7 +607,9 @@
       "decimals": 6,
       "name": "WAIT",
       "symbol": "WAIT",
-      "tags": ["Meme"],
+      "tags": [
+        "Meme"
+      ],
       "about": "Watch As Ideas Thrive"
     },
     {
@@ -510,7 +618,9 @@
       "decimals": 18,
       "name": "POCHITA",
       "symbol": "POCHITA",
-      "tags": ["Meme"],
+      "tags": [
+        "Meme"
+      ],
       "about": "POCHITA • From manga legend to meme sensation! bringing charm, chaos, and non-stop laughs to the digital world!"
     },
     {
@@ -528,7 +638,9 @@
       "decimals": 18,
       "name": "Official Trump",
       "symbol": "TRUMP",
-      "tags": ["Meme"],
+      "tags": [
+        "Meme"
+      ],
       "about": ""
     },
     {
@@ -537,7 +649,9 @@
       "decimals": 18,
       "name": "Staked fastUSD",
       "symbol": "sfastUSD",
-      "tags": ["Stablecoins"],
+      "tags": [
+        "Stablecoins"
+      ],
       "about": ""
     },
     {
@@ -546,7 +660,9 @@
       "decimals": 18,
       "name": "Fishwar",
       "symbol": "FISHW",
-      "tags": [""],
+      "tags": [
+        ""
+      ],
       "about": ""
     },
     {
@@ -555,7 +671,9 @@
       "decimals": 18,
       "name": "Grand Gangsta City",
       "symbol": "GGC",
-      "tags": [""],
+      "tags": [
+        ""
+      ],
       "about": ""
     },
     {
@@ -564,7 +682,9 @@
       "decimals": 18,
       "name": "APO",
       "symbol": "APO",
-      "tags": [""],
+      "tags": [
+        ""
+      ],
       "about": ""
     },
     {
@@ -573,8 +693,22 @@
       "decimals": 18,
       "name": "MAD",
       "symbol": "MAD",
-      "tags": [""],
+      "tags": [
+        ""
+      ],
       "about": ""
+    },
+    {
+      "chainId": 101,
+      "address": "0x1Cc047583E2a9bF3a3288bBa4A1E2128A0f0aeA5",
+      "symbol": "PUNK",
+      "name": "Punk Star",
+      "decimals": 18,
+      "logoURI": "https://ipfs.io/ipfs/QmPhgTvFAcqkWVn5jN9HzswzqX6duGda22jGVa7DHTsoHN",
+      "extensions": {
+        "website": "https://www.punkstar.app",
+        "twitter": "https://x.com/PunkStarSei"
+      }
     }
   ]
 }
