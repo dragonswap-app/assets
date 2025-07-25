@@ -605,3 +605,10 @@
     }
   ]
 }
+"chainId": 1329,
+      "address": "0x962Aae191622498BcA205c1c1B73E59aC7d295f2",
+      "decimals": 18,
+      "name": "WILSON",
+      "symbol": "WILSON",
+      "tags": ["Meme"],
+      "about": "Cult Coin on SEI"
