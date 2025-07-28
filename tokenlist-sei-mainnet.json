@@ -6,7 +6,7 @@
       "decimals": 18,
       "name": "Dragonswap Token",
       "symbol": "DRG",
-      "tags": ["Top"],
+      "tags": ["Top", "DeFi"],
       "about": ""
     },
     {
@@ -573,7 +573,7 @@
       "decimals": 18,
       "name": "APO",
       "symbol": "APO",
-      "tags": [""],
+      "tags": ["DeFi"],
       "about": ""
     },
     {
