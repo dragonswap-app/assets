@@ -602,6 +602,15 @@
       "symbol": "aMSTR",
       "tags": [""],
       "about": ""
+    },
+    {
+      "chainId": 1329,
+      "address": "0x481FE356DF88169f5F38203Dd7f3C67B7559FDa5",
+      "decimals": 18,
+      "name": "Raiin",
+      "symbol": "RAIIN",
+      "tags": [""],
+      "about": ""
     }
   ]
 }
