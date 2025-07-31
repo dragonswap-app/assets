@@ -611,6 +611,15 @@
       "symbol": "RAIIN",
       "tags": [""],
       "about": ""
+    },
+    {
+      "chainId": 1329,
+      "address": "0x888d81e3ea5E8362B5f69188CBCF34Fa8da4b888",
+      "decimals": 18,
+      "name": "LARRY TALBOT",
+      "symbol": "LARRY",
+      "tags": ["DeFi"],
+      "about": "LARRY is an SEI-backed token built using v3,3 technology by liquidity providers for liquidity providers."
     }
   ]
 }
