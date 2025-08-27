@@ -611,6 +611,15 @@
       "symbol": "RAIIN",
       "tags": [""],
       "about": ""
+    },
+    {
+      "chainId": 1329,
+      "address": "0xA1207b84980A4A56A75b450500875272AD9630a0",
+      "decimals": 18,
+      "name": "GIGA SONIC",
+      "symbol": "GIGAS",
+      "tags": [""],
+      "about": ""
     }
   ]
 }
