@@ -620,6 +620,15 @@
       "symbol": "GIGAS",
       "tags": [""],
       "about": ""
+    },
+    {
+      "chainId": 1329,
+      "address": "0x4605232eA642a328bdC036F2EbA9B8C4c59B6CF8",
+      "decimals": 18,
+      "name": "BULLX",
+      "symbol": "BULLX",
+      "tags": ["Meme"],
+      "about": "Bullx On Sei is more than just a memecoin — it’s a bold personality, a symbol of resilience, and a growing voice within the SEI Network."
     }
   ]
 }
