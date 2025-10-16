@@ -11,6 +11,15 @@
     },
     {
       "chainId": 1329,
+      "address": "0xb71886c52D754CF2B1D3d866c7Cfe9eeC01418a7",
+      "decimals": 18,
+      "name": "sDRG",
+      "symbol": "Staked DragonSwap Token",
+      "tags": ["DeFi"],
+      "about": ""
+    },
+    {
+      "chainId": 1329,
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "decimals": 18,
       "name": "SEI",
