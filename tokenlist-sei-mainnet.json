@@ -647,6 +647,15 @@
       "symbol": "spSEI",
       "tags": [""],
       "about": ""
+    },
+    {
+      "chainId": 1329,
+      "address": "0x30a419440D557bD8B28cF7a0cf26A2bF94B97308",
+      "decimals": 18,
+      "name": "BOREDTOPIA",
+      "symbol": "BCT",
+      "tags": [""],
+      "about": ""
     }
   ]
 }
