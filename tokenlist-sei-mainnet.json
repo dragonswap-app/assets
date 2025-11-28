@@ -656,6 +656,15 @@
       "symbol": "BCT",
       "tags": [""],
       "about": ""
+    },
+    {
+      "chainId": 1329,
+      "address": "0xedf7732991B3De8F46fb97dcD4c5CdB28E6aD859",
+      "decimals": 18,
+      "name": "Tea-REX",
+      "symbol": "TReX",
+      "tags": [""],
+      "about": ""
     }
   ]
 }
