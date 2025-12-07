@@ -659,12 +659,12 @@
     },
     {
       "chainId": 1329,
-      "address": "0xedf7732991B3De8F46fb97dcD4c5CdB28E6aD859",
+      "address": "0x0B328C0188EDed31a2EC015a420D58A84aa9e6Cd",
       "decimals": 18,
-      "name": "Tea-REX",
-      "symbol": "TReX",
+      "name": "ELECTRUM",
+      "symbol": "STATER",
       "tags": [""],
-      "about": ""
+      "about": " Elecrum is World first coin, Where timeless value meets modern trust."
     }
   ]
 }
