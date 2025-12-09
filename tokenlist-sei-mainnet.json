@@ -665,6 +665,15 @@
       "symbol": "TReX",
       "tags": [""],
       "about": ""
+    },
+    {
+      "chainId": 1329,
+      "address": "0x76D469a747327EE2de4FbdF50d59DdD1145683e6",
+      "decimals": 18,
+      "name": "Infinity Games",
+      "symbol": "INFY",
+      "tags": [""],
+      "about": ""
     }
   ]
 }
