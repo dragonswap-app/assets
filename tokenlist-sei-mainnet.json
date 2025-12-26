@@ -674,6 +674,24 @@
       "symbol": "INFY",
       "tags": [""],
       "about": ""
+    },
+    {
+      "chainId": 1329,
+      "address": "0x049EAa1B2C9934aaAcC12a141484eEfd62867653",
+      "decimals": 18,
+      "name": "aUSD",
+      "symbol": "aUSD",
+      "tags": [""],
+      "about": ""
+    },
+    {
+      "chainId": 1329,
+      "address": "0x7D330358F0bE21fEeb751d0622ffeE04E25d7Dfa",
+      "decimals": 18,
+      "name": "aMSTR",
+      "symbol": "aMSTR",
+      "tags": [""],
+      "about": ""
     }
   ]
 }
