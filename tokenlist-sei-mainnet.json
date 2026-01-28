@@ -674,6 +674,15 @@
       "symbol": "INFY",
       "tags": [""],
       "about": ""
+    },
+    {
+      "chainId": 1329,
+      "address": "0x54cD901491AeF397084453F4372B93c33260e2A6",
+      "decimals": 18,
+      "name": "Ondo U.S. Dollar Yield",
+      "symbol": "USDY",
+      "tags": [""],
+      "about": ""
     }
   ]
 }
