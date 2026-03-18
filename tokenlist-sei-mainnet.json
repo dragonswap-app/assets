@@ -11,6 +11,15 @@
     },
     {
       "chainId": 1329,
+      "address": "0xb71886c52D754CF2B1D3d866c7Cfe9eeC01418a7",
+      "decimals": 18,
+      "name": "Staked DragonSwap Token",
+      "symbol": "sDRG",
+      "tags": ["DeFi"],
+      "about": ""
+    },
+    {
+      "chainId": 1329,
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "decimals": 18,
       "name": "SEI",
@@ -128,10 +137,19 @@
     },
     {
       "chainId": 1329,
-      "address": "0x95597EB8D227a7c4B4f5E807a815C5178eE6dBE1",
+      "address": "0xF91fBe296b0121DA410f885BfA39fad078407234",
       "decimals": 6,
       "name": "MILLI",
       "symbol": "MILLI",
+      "tags": ["Meme"],
+      "about": "MILLI - the community coin of SEI"
+    },
+    {
+      "chainId": 1329,
+      "address": "0x95597EB8D227a7c4B4f5E807a815C5178eE6dBE1",
+      "decimals": 6,
+      "name": "MILLI (Old)",
+      "symbol": "MILLI_OLD",
       "tags": ["Meme"],
       "about": "MILLI - the community coin of SEI"
     },
@@ -629,6 +647,51 @@
       "symbol": "BULLX",
       "tags": ["Meme"],
       "about": "Bullx On Sei is more than just a memecoin — it’s a bold personality, a symbol of resilience, and a growing voice within the SEI Network."
+    },
+    {
+      "chainId": 1329,
+      "address": "0xC257361320F4514D91c05F461006CE6a0300E2d2",
+      "decimals": 18,
+      "name": "Splashing SEI",
+      "symbol": "spSEI",
+      "tags": [""],
+      "about": ""
+    },
+    {
+      "chainId": 1329,
+      "address": "0x30a419440D557bD8B28cF7a0cf26A2bF94B97308",
+      "decimals": 18,
+      "name": "BOREDTOPIA",
+      "symbol": "BCT",
+      "tags": [""],
+      "about": ""
+    },
+    {
+      "chainId": 1329,
+      "address": "0xedf7732991B3De8F46fb97dcD4c5CdB28E6aD859",
+      "decimals": 18,
+      "name": "Tea-REX",
+      "symbol": "TReX",
+      "tags": [""],
+      "about": ""
+    },
+    {
+      "chainId": 1329,
+      "address": "0x76D469a747327EE2de4FbdF50d59DdD1145683e6",
+      "decimals": 18,
+      "name": "Infinity Games",
+      "symbol": "INFY",
+      "tags": [""],
+      "about": ""
+    },
+    {
+      "chainId": 1329,
+      "address": "0x54cD901491AeF397084453F4372B93c33260e2A6",
+      "decimals": 18,
+      "name": "Ondo U.S. Dollar Yield",
+      "symbol": "USDY",
+      "tags": [""],
+      "about": ""
     }
    {
       "chainId": 1329,
