@@ -683,6 +683,15 @@
       "symbol": "USDY",
       "tags": [""],
       "about": ""
+    },
+    {
+      "chainId": 1329,
+      "address": "0x142cdc44890978b506e745bb3bd11607b7f7faef",
+      "decimals": 6,
+      "name": "LayerZero Bridged PYUSD0",
+      "symbol": "PYUSD0",
+      "tags": ["Stablecoins"],
+      "about": ""
     }
   ]
 }
